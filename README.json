@@ -1,0 +1,4558 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenLara",
+          "description": "Classic Tomb Raider open-source engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T16:56:52Z",
+            "owner": "XProger",
+            "repo": "OpenLara",
+            "stars": 5057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "San Andreas Unity",
+          "description": "Reimplementation of GTA: San Andreas game engine in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-16T14:51:41Z",
+            "owner": "in0finite",
+            "repo": "SanAndreasUnity",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenJK",
+          "description": "Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-11T05:36:51Z",
+            "owner": "JACoders",
+            "repo": "OpenJK",
+            "stars": 2281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rigel Engine",
+          "description": "Modern reimplementation of the classic DOS game Duke Nukem II in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-26T10:08:17Z",
+            "owner": "lethal-guitar",
+            "repo": "RigelEngine",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TR1X",
+          "description": "Open source implementation of the classic Tomb Raider I game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:39:50Z",
+            "owner": "LostArtefacts",
+            "repo": "TRX",
+            "stars": 964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carnage3D",
+          "description": "Reimplementation of Grand Theft Auto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T15:35:07Z",
+            "owner": "codenamecpp",
+            "repo": "carnage3d",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOMB5",
+          "description": "Tomb Raider: Chronicles disassembly translated to C source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-03T17:20:35Z",
+            "owner": "TOMB5",
+            "repo": "TOMB5",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "donut",
+          "description": "Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-27T15:44:58Z",
+            "owner": "plowteam",
+            "repo": "donut",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heretic2R",
+          "description": "Heretic II (1998, Raven Software) reverse-engineered source port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T14:15:48Z",
+            "owner": "m-x-d",
+            "repo": "Heretic2R",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remc2",
+          "description": "Reverse engineering of Magic Carpet 2 from Assembler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:06:39Z",
+            "owner": "turican0",
+            "repo": "remc2",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMB",
+          "description": "Role-playing game engine for Taleworlds' Mount&Blade Series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T09:10:28Z",
+            "owner": "cookgreen",
+            "repo": "OpenMB",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heretic2",
+          "description": "Heretic2 playground sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T13:15:06Z",
+            "owner": "0lvin",
+            "repo": "heretic2",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speed-Academy",
+          "description": "Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T14:46:25Z",
+            "owner": "kugelrund",
+            "repo": "Speed-Academy",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speed-Outcast",
+          "description": "Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-02T20:12:24Z",
+            "owner": "kugelrund",
+            "repo": "Speed-Outcast",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenChaos",
+          "description": "OpenChaos — Fan Modernization of Urban Chaos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-27T21:41:56Z",
+            "owner": "lndpj",
+            "repo": "OpenChaos",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunny-Survival-Remake-Code",
+          "description": "Code for my game called \"Sunny Survival Remake\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T22:32:57Z",
+            "owner": "Kynwi",
+            "repo": "Sunny-Survival-Remake-Code",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Action"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dusklight",
+          "description": "Dusklight is a reverse-engineered reimplementation of Twilight Princess.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:43:12Z",
+            "owner": "TwilitRealm",
+            "repo": "dusklight",
+            "stars": 5076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScummVM",
+          "description": "Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:10:44Z",
+            "owner": "scummvm",
+            "repo": "scummvm",
+            "stars": 2770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lba2remake",
+          "description": "A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-17T21:54:55Z",
+            "owner": "LBALab",
+            "repo": "lba2remake",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lba2-classic-community",
+          "description": "Little Big Adventure 2 engine source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:18:16Z",
+            "owner": "LBALab",
+            "repo": "lba2-classic-community",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twin-e",
+          "description": "TwinEngine: a Little Big Adventure engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-31T18:59:42Z",
+            "owner": "LBALab",
+            "repo": "twin-e",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeco",
+          "description": "Time Commando Reimplementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-17T10:31:32Z",
+            "owner": "LBALab",
+            "repo": "timeco",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DetectiveDS",
+          "description": "A remake of the original C64 classic The Detective Game for Nintendo DS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-30T19:14:26Z",
+            "owner": "benbaker76",
+            "repo": "DetectiveDS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lba1-classic",
+          "description": "Little Big Adventure: Twinsen's Adventure Definitive Edition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-11-28T23:11:23Z",
+            "owner": "LBALab",
+            "repo": "lba1-classic",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Adventure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Taisei",
+          "description": "Fan-made, open-source clone of the Touhou series. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T15:18:06Z",
+            "owner": "taisei-project",
+            "repo": "taisei",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Dogs SDL",
+          "description": "Classic overhead run-and-gun game. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T04:27:55Z",
+            "owner": "cxong",
+            "repo": "cdogs-sdl",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTyrian",
+          "description": "An open-source port of Tyrian from Turbo Pascal to C. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-03T05:38:18Z",
+            "owner": "opentyrian",
+            "repo": "opentyrian",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openomf",
+          "description": "One Must Fall 2097 Remake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T05:48:56Z",
+            "owner": "omf2097",
+            "repo": "openomf",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenJazz",
+          "description": "Free, open-source version of the classic Jazz Jackrabbit™ games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T08:22:26Z",
+            "owner": "AlisterT",
+            "repo": "openjazz",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClonk",
+          "description": "Multiplayer action game where you control small and nimble humanoids.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-28T20:43:11Z",
+            "owner": "openclonk",
+            "repo": "openclonk",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mr.Boom",
+          "description": "8-player Bomberman clone for RetroArch/Libretro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-31T10:46:38Z",
+            "owner": "Javanaise",
+            "repo": "mrboom-libretro",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crimsonland",
+          "description": "Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:50:01Z",
+            "owner": "banteg",
+            "repo": "crimson",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Great Escape in C",
+          "description": "Classic ZX Spectrum game The Great Escape in portable C. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T20:31:45Z",
+            "owner": "dpt",
+            "repo": "The-Great-Escape-in-C",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Kick-Off",
+          "description": "Rewriting attempt of the cult football game Kick Off 2. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-01T15:05:28Z",
+            "owner": "ssenegas",
+            "repo": "kickoff",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zelda Classic",
+          "description": "A game and editing tool that lets you create custom Legend of Zelda quests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-14T00:25:51Z",
+            "owner": "ArmageddonGames",
+            "repo": "ZeldaClassic",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "O21",
+          "description": "FOSS remake of U95, an old submarine arcade game from 1995.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-08-12T16:08:29Z",
+            "owner": "ForNeVeR",
+            "repo": "O21",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battle City",
+          "description": "Browser reimplementation of Namco's 1985 Battle City (Famicom version), built from a full annotated 6502 disassembly. Playable at https://battle-city.berrry.app. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-07T11:17:31Z",
+            "owner": "vgrichina",
+            "repo": "battlecity",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metal-Slug-Remake",
+          "description": "A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-05T18:46:14Z",
+            "owner": "ahmadraza2730",
+            "repo": "Metal-Slug-Remake",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atomiks",
+          "description": "A remake of the classic Atomix game for modern platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-17T23:46:00Z",
+            "owner": "carstene1ns",
+            "repo": "atomiks",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retro-Arcade-Remakes",
+          "description": "C++ retro arcade remakes showcasing clean OOP design, game loops, collision systems, and state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-24T23:36:24Z",
+            "owner": "danywaked",
+            "repo": "Retro-Arcade-Remakes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WarhawkDS",
+          "description": "Warhawk DS remake of the C64 game Warhawk to the Nintendo DS in native assembler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-30T19:13:56Z",
+            "owner": "benbaker76",
+            "repo": "WarhawkDS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AcidDrop",
+          "description": "Remake of classic Atari 2600 game \"Acid Drop\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-01T21:35:03Z",
+            "owner": "lostjared",
+            "repo": "AcidDrop",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blips",
+          "description": "A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell. It is a Puzzle game which is a variation of sokoban written in SDL 3 based on my old gp2x version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T20:54:53Z",
+            "owner": "joyrider3774",
+            "repo": "blips",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpaceRox.MX2",
+          "description": "2D Asteroids Style Game using MX2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-01T23:10:51Z",
+            "owner": "lostjared",
+            "repo": "SpaceRox.MX2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wedges-trial",
+          "description": "[WIP] Browser logic puzzle game inspired by Gothic's Remake lockpicking mechanism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T08:20:26Z",
+            "owner": "begiedz",
+            "repo": "wedges-trial",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "galaxy-eggbert",
+          "description": "3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:47:34Z",
+            "owner": "openeggbert",
+            "repo": "galaxy-eggbert",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guardian",
+          "description": "A modern, endless remake of the classic arcade game Defender",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T11:22:06Z",
+            "owner": "LaughingInPurgatory",
+            "repo": "guardian",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GradiusRemake",
+          "description": "Remake of the game Gradius (NES - 1986)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-07-17T21:46:37Z",
+            "owner": "luisfae",
+            "repo": "GradiusRemake",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maze-Runner-FPS",
+          "description": "Remake of classic Maze Runner game from the 70s -- written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T13:57:59Z",
+            "owner": "IbsYoussef",
+            "repo": "Maze-Runner-FPS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrbitalDecay",
+          "description": "This is a 3D remake of the old Lunar Lander game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T22:44:57Z",
+            "owner": "LeineckerGames",
+            "repo": "OrbitalDecay",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Arcade"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ioquake3",
+          "description": "The free software FPS engine that can be used to play Quake 3, or make your own game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T03:11:56Z",
+            "owner": "ioquake",
+            "repo": "ioq3",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xash3d-fwgs",
+          "description": "Xash3D FWGS engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T08:54:05Z",
+            "owner": "FWGS",
+            "repo": "xash3d-fwgs",
+            "stars": 2709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chocolate Doom",
+          "description": "Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-08T06:47:00Z",
+            "owner": "chocolate-doom",
+            "repo": "chocolate-doom",
+            "stars": 2393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vkQuake",
+          "description": "Vulkan Quake port based on QuakeSpasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T19:52:03Z",
+            "owner": "Novum",
+            "repo": "vkQuake",
+            "stars": 2246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhewm3",
+          "description": "A source port of Doom 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-08T13:46:34Z",
+            "owner": "dhewm",
+            "repo": "dhewm3",
+            "stars": 2144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UZDoom",
+          "description": "Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:22:56Z",
+            "owner": "UZDoom",
+            "repo": "UZDoom",
+            "stars": 2072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClassiCube",
+          "description": "Minecraft Classic compatible client written in C from scratch. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T12:37:03Z",
+            "owner": "ClassiCube",
+            "repo": "ClassiCube",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBDOOM-3-BFG",
+          "description": "Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T12:16:54Z",
+            "owner": "RobertBeckebans",
+            "repo": "RBDOOM-3-BFG",
+            "stars": 1835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quake3e",
+          "description": "Improved Quake III Arena engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:29:52Z",
+            "owner": "ec-",
+            "repo": "Quake3e",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freedoom",
+          "description": "Free software FPS based on the classic DOOM engine. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T15:51:42Z",
+            "owner": "freedoom",
+            "repo": "freedoom",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpades",
+          "description": "Compatible client of Ace of Spades, a voxel FPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-06T23:14:52Z",
+            "owner": "yvt",
+            "repo": "openspades",
+            "stars": 1229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Force Engine",
+          "description": "Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T05:24:10Z",
+            "owner": "TheForceEngine",
+            "repo": "TheForceEngine",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealEngine",
+          "description": "The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:53:52Z",
+            "owner": "dpjudas",
+            "repo": "SurrealEngine",
+            "stars": 1089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ironwail",
+          "description": "High-performance QuakeSpasm fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T17:20:22Z",
+            "owner": "andrei-drexler",
+            "repo": "ironwail",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yamagi Quake II",
+          "description": "Enhanced client for id Software's Quake II with focus on offline and coop gameplay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T16:26:03Z",
+            "owner": "yquake2",
+            "repo": "yquake2",
+            "stars": 995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crispy Doom",
+          "description": "A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T14:08:24Z",
+            "owner": "fabiangreffrath",
+            "repo": "crispy-doom",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raze",
+          "description": "Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-19T12:24:42Z",
+            "owner": "ZDoom",
+            "repo": "Raze",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aleph One",
+          "description": "The open source continuation of Bungie’s Marathon 2 game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T21:45:01Z",
+            "owner": "Aleph-One-Marathon",
+            "repo": "alephone",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMoHAA",
+          "description": "Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-23T22:07:14Z",
+            "owner": "openmoh",
+            "repo": "openmohaa",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NBlood",
+          "description": "Port of the classic FPS Blood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T03:46:44Z",
+            "owner": "NBlood",
+            "repo": "NBlood",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoomRetro",
+          "description": "Classic, refined DOOM source port for Windows PC. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T05:53:37Z",
+            "owner": "bradharding",
+            "repo": "doomretro",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iortcw",
+          "description": "Source port of Return to Castle Wolfenstein.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-27T08:45:31Z",
+            "owner": "iortcw",
+            "repo": "iortcw",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idTech4A++ (Harmattan Edition)",
+          "description": "DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:25:25Z",
+            "owner": "glKarin",
+            "repo": "com.n0n3m4.diii4a",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSDA-Doom",
+          "description": "A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:39:31Z",
+            "owner": "kraflab",
+            "repo": "dsda-doom",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ericw-tools",
+          "description": "Quake/Hexen 2 Map compiling tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:58:25Z",
+            "owner": "ericwa",
+            "repo": "ericw-tools",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezQuake",
+          "description": "Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-16T08:01:29Z",
+            "owner": "QW-Group",
+            "repo": "ezquake-source",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MadnessPatch",
+          "description": "A patch that fixes various issues in the PC port of Alice: Madness Returns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T16:51:19Z",
+            "owner": "Wemino",
+            "repo": "MadnessPatch",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BStone",
+          "description": "A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T20:23:29Z",
+            "owner": "bibendovsky",
+            "repo": "bstone",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VorpalFix",
+          "description": "A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-05T08:09:43Z",
+            "owner": "Wemino",
+            "repo": "VorpalFix",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doomsday Engine",
+          "description": "Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-03T10:02:32Z",
+            "owner": "skyjake",
+            "repo": "Doomsday-Engine",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odamex",
+          "description": "Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:28:58Z",
+            "owner": "odamex",
+            "repo": "odamex",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetterSpades",
+          "description": "Ace Of Spades open source implementation that runs on older machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-30T16:18:47Z",
+            "owner": "xtreme8000",
+            "repo": "BetterSpades",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spearmint",
+          "description": "Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-25T08:41:02Z",
+            "owner": "clover-moe",
+            "repo": "spearmint",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Eternity Engine",
+          "description": "Advanced DOOM source port. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T18:47:36Z",
+            "owner": "team-eternity",
+            "repo": "eternity",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chocolate Quake",
+          "description": "A purist Quake source port that restores the original look and feel of v1.09 and earlier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T18:04:58Z",
+            "owner": "Henrique194",
+            "repo": "chocolate-quake",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CatacombGL",
+          "description": "Windows source port of Catacomb 3D and the Catacomb Adventure series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T18:53:51Z",
+            "owner": "ArnoAnsems",
+            "repo": "CatacombGL",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chasm-Reverse",
+          "description": "\"PanzerChasm\" is a free recreation of the game \"Chash: - The Rift\" by \"ActionForms\" using the original game data (CSM.BIN file).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-09T18:56:31Z",
+            "owner": "Panzerschrek",
+            "repo": "Chasm-Reverse",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeriousSamClassic-VK",
+          "description": "Open source game engine for Serious Sam Classic with Vulkan support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-14T00:22:09Z",
+            "owner": "tx00100xt",
+            "repo": "SeriousSamClassic-VK",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openQ4",
+          "description": "The modern binary replacement for QUAKE 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:26:04Z",
+            "owner": "themuffinator",
+            "repo": "openQ4",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allegiance",
+          "description": "Allegiance is RTS and FPS Space Combat game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-10T22:40:36Z",
+            "owner": "FreeAllegiance",
+            "repo": "Allegiance",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDGE-classic",
+          "description": "Cross-Platform OpenGL Doom Source Port with powerful modding features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-11T07:52:37Z",
+            "owner": "edge-classic",
+            "repo": "EDGE-classic",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jfsw",
+          "description": "Port of the 3D Realms game \"Shadow Warrior\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T09:14:22Z",
+            "owner": "jonof",
+            "repo": "jfsw",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qfusion",
+          "description": "This is Warsow's fork of qfusion, the id Tech 2 derived game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T21:00:27Z",
+            "owner": "Warsow",
+            "repo": "qfusion",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "q2tools-220",
+          "description": "Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-14T02:43:39Z",
+            "owner": "qbism",
+            "repo": "q2tools-220",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quakeforge",
+          "description": "QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T16:47:44Z",
+            "owner": "quakeforge",
+            "repo": "quakeforge",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taradino",
+          "description": "SDL2 port of Rise of the Triad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-20T09:59:16Z",
+            "owner": "fabiangreffrath",
+            "repo": "taradino",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lilium-voyager",
+          "description": "An engine replacement for Star Trek Voyager: Elite Force Holomatch (multiplayer).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-20T15:27:15Z",
+            "owner": "clover-moe",
+            "repo": "lilium-voyager",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NearChuckle",
+          "description": "A Linux port of Far Cry 1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T17:40:34Z",
+            "owner": "rohit-n",
+            "repo": "NearChuckle",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tyrquake",
+          "description": "Libretro port of Tyrquake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T17:10:50Z",
+            "owner": "libretro",
+            "repo": "tyrquake",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-arena",
+          "description": "Spearmint Quake 3 and Team Arena game code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-07T18:43:11Z",
+            "owner": "clover-moe",
+            "repo": "mint-arena",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOOM64-EX-Plus-Enhanced",
+          "description": "fork of the Doom 64 EX+ engine, Its main goal is to show what the Doom 64 engine would have looked like if it hadn't been limited by the N64 console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-25T18:45:15Z",
+            "owner": "Styd051",
+            "repo": "DOOM64-EX-Plus-Enhanced",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmegA-engine",
+          "description": "Modern OpenArena engine based on Quake3e",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T22:57:51Z",
+            "owner": "Bishop-333",
+            "repo": "OmegA-engine",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barrett",
+          "description": "Advanced and featureful Rise of the Triad source port for modern systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-14T16:17:30Z",
+            "owner": "lunarmeadow",
+            "repo": "barrett",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeriousSamAlphaRemake",
+          "description": "Serious Sam Alpha Remake open source project based.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-05T14:24:48Z",
+            "owner": "tx00100xt",
+            "repo": "SeriousSamAlphaRemake",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmegA-mod",
+          "description": "OmegA mod for OpenArena",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T12:08:23Z",
+            "owner": "Bishop-333",
+            "repo": "OmegA-mod",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jftekwar",
+          "description": "No-promises port of the Capstone Software game \"TekWar\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-03T08:26:03Z",
+            "owner": "jonof",
+            "repo": "jftekwar",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jfwhaven",
+          "description": "No-promises port of the Capstone Software game \"Witchaven\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-25T09:14:29Z",
+            "owner": "jonof",
+            "repo": "jfwhaven",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenChasm",
+          "description": "Free software reconstruction of Chasm: The Rift game.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2014-01-13T13:44:52Z",
+            "owner": "alexey-lysiuk",
+            "repo": "OpenChasm",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-metal",
+          "description": "Incomplete (unusable for practical purposes) Heavy Metal F.A.K.K.² / American McGee's Alice game code for Spearmint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-17T20:46:43Z",
+            "owner": "zturtleman",
+            "repo": "mint-metal",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Q2RTXPerimental",
+          "description": "My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:30:39Z",
+            "owner": "PolyhedronStudio",
+            "repo": "Q2RTXPerimental",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FnQL",
+          "description": "FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:34:12Z",
+            "owner": "themuffinator",
+            "repo": "FnQL",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "realice",
+          "description": "Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-15T17:01:14Z",
+            "owner": "FWGS",
+            "repo": "realice",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FnQ3",
+          "description": "FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:23:56Z",
+            "owner": "themuffinator",
+            "repo": "FnQ3",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lilium-arena",
+          "description": "Lilium Arena - Compatible with Quake 3 Arena 1.32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-15T00:42:42Z",
+            "owner": "clover-moe",
+            "repo": "lilium-arena",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openQ4-game",
+          "description": "openQ4 game libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:21:53Z",
+            "owner": "themuffinator",
+            "repo": "openQ4-game",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qk1",
+          "description": "quake 1 and quakeworld port for plan9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-27T03:34:10Z",
+            "owner": "qwx9",
+            "repo": "qk1",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOOM64EXUltra",
+          "description": "A fork of DOOM 64 EX+ with new stuff and fixes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-18T17:25:09Z",
+            "owner": "StevenSYS",
+            "repo": "DOOM64EXUltra",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quake3-rust-edition",
+          "description": "id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-11T17:18:21Z",
+            "owner": "Oli97430",
+            "repo": "quake3-rust-edition",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lilium-salvation",
+          "description": "An engine replacement for Dark Salvation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-20T15:12:35Z",
+            "owner": "clover-moe",
+            "repo": "lilium-salvation",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heavymetal",
+          "description": "A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-28T03:40:48Z",
+            "owner": "sp00nznet",
+            "repo": "heavymetal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REBLIVION",
+          "description": "Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T04:50:42Z",
+            "owner": "themuffinator",
+            "repo": "REBLIVION",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4TAK",
+          "description": "client and server based on q2pro-rerelease and q2pro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-20T13:40:00Z",
+            "owner": "qbism",
+            "repo": "4TAK",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oblivion-Reconstructed",
+          "description": "Reverse-engineered Oblivion Extension Pack source code for original Quake II.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-25T04:49:00Z",
+            "owner": "themuffinator",
+            "repo": "Oblivion-Reconstructed",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tremulous",
+          "description": "Latest Tremulous based on GrangerHub/tremulous",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-17T04:15:22Z",
+            "owner": "justinl1996",
+            "repo": "tremulous",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tremulous110e",
+          "description": "Improved Tremulous 1.1.0 engine based on ioquake3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:08:01Z",
+            "owner": "Artevilli",
+            "repo": "Tremulous110e",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "FPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RuneLite",
+          "description": "Open source Old School RuneScape (OSRS) client. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:58:21Z",
+            "owner": "runelite",
+            "repo": "runelite",
+            "stars": 5438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Station 14",
+          "description": "Space Station 14 is a revived attempt at a Space Station 13 remake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:24:49Z",
+            "owner": "space-wizards",
+            "repo": "space-station-14",
+            "stars": 3734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeSO",
+          "description": "Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:04:12Z",
+            "owner": "riperiperi",
+            "repo": "FreeSO",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meridian 59",
+          "description": "The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:45:29Z",
+            "owner": "Meridian59",
+            "repo": "Meridian59",
+            "stars": 508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ryzom Core",
+          "description": "Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:31:59Z",
+            "owner": "ryzom",
+            "repo": "ryzomcore",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSC-C",
+          "description": "Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T22:48:40Z",
+            "owner": "2003scape",
+            "repo": "rsc-c",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2006rebotted",
+          "description": "A 2006 RuneScape 2 Emulation Server. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-12-31T18:52:48Z",
+            "owner": "dginovker",
+            "repo": "2006rebotted",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netrek",
+          "description": "Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-10T22:01:23Z",
+            "owner": "quozl",
+            "repo": "netrek-client-cow",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starcup",
+          "description": "A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:43:59Z",
+            "owner": "teamstarcup",
+            "repo": "starcup",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heart-of-Africa-Remake",
+          "description": "Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T05:45:56Z",
+            "owner": "PatrickVonMassow",
+            "repo": "Heart-of-Africa-Remake",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Online"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevilutionX",
+          "description": "Diablo build for modern operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T02:05:48Z",
+            "owner": "diasurgical",
+            "repo": "DevilutionX",
+            "stars": 9680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devilution",
+          "description": "Reconstructed form of Diablo's original source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-15T02:01:36Z",
+            "owner": "diasurgical",
+            "repo": "devilution",
+            "stars": 8989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMW",
+          "description": "Reimplementation of the Morrowind game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T20:48:55Z",
+            "owner": "OpenMW",
+            "repo": "openmw",
+            "stars": 6502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zelda3",
+          "description": "This is a reverse engineered clone of Zelda 3 - A Link to the Past.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-27T23:15:02Z",
+            "owner": "snesrev",
+            "repo": "zelda3",
+            "stars": 4721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daggerfall Unity",
+          "description": "Recreation of Daggerfall in the Unity engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-30T22:23:57Z",
+            "owner": "Interkarma",
+            "repo": "daggerfall-unity",
+            "stars": 3464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freeablo",
+          "description": "Open-source implementation of the Diablo engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-13T22:28:25Z",
+            "owner": "wheybags",
+            "repo": "freeablo",
+            "stars": 2173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGothic",
+          "description": "Reimplementation of Gothic 2: Night of the Raven.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T17:54:01Z",
+            "owner": "Try",
+            "repo": "OpenGothic",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTESArena",
+          "description": "Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:56:58Z",
+            "owner": "afritz1",
+            "repo": "OpenTESArena",
+            "stars": 1352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GemRB",
+          "description": "Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T20:31:43Z",
+            "owner": "gemrb",
+            "repo": "gemrb",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xoreos",
+          "description": "Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T20:34:54Z",
+            "owner": "xoreos",
+            "repo": "xoreos",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riiablo",
+          "description": "Diablo II remade using Java and LibGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-13T06:57:44Z",
+            "owner": "collinsmith",
+            "repo": "riiablo",
+            "stars": 1089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arx Libertatis",
+          "description": "Cross-platform port of Arx Fatalis, a first-person role-playing game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-22T17:58:15Z",
+            "owner": "arx",
+            "repo": "ArxLibertatis",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shockolate",
+          "description": "Same great System Shock, new great taste.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-01T16:22:45Z",
+            "owner": "Interrupt",
+            "repo": "systemshock",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falltergeist",
+          "description": "Crossplatform Fallout 2 game engine writen in C++ and SDL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-05T21:09:54Z",
+            "owner": "falltergeist",
+            "repo": "falltergeist",
+            "stars": 889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEnroth",
+          "description": "Might and Magic VI-VIII engine remake using original data & code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:27:03Z",
+            "owner": "OpenEnroth",
+            "repo": "OpenEnroth",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barony",
+          "description": "Open source release of Barony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-21T03:10:51Z",
+            "owner": "TurningWheel",
+            "repo": "Barony",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVIII",
+          "description": "Final Fantasy VIII engine implementation in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-10-15T22:12:00Z",
+            "owner": "MaKiPL",
+            "repo": "OpenVIII-monogame",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exult",
+          "description": "Project to recreate Ultima 7 for modern operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T04:02:36Z",
+            "owner": "exult",
+            "repo": "exult",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambermoon.net",
+          "description": "Ambermoon rewrite in C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T08:05:27Z",
+            "owner": "Pyrdacor",
+            "repo": "Ambermoon.net",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REGoth",
+          "description": "An open source reimplementation of zEngine the engine behind Gothic and Gothic II.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-05-29T13:32:50Z",
+            "owner": "REGoth-project",
+            "repo": "REGoth-bs",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sfall",
+          "description": "A set of engine modifications for the classic game Fallout 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:55:12Z",
+            "owner": "sfall-team",
+            "repo": "sfall",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnderworldGodot",
+          "description": "An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:42:40Z",
+            "owner": "hankmorgan",
+            "repo": "UnderworldGodot",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abyss Engine",
+          "description": "Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-21T16:13:07Z",
+            "owner": "AbyssEngine",
+            "repo": "AbyssEngine",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGEngine",
+          "description": "Implementation of the Diablo game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-21T21:48:21Z",
+            "owner": "dgcor",
+            "repo": "DGEngine",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeFT",
+          "description": "Real-time, isometric action game engine inspired by Fallout Tactics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-29T12:28:51Z",
+            "owner": "nadult",
+            "repo": "FreeFT",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAlbion",
+          "description": "Remake of 1995 Albion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-10T07:54:03Z",
+            "owner": "csinkers",
+            "repo": "ualbion",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BtBuilder",
+          "description": "An open source implementation of the Bard's Tale Construction Set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-05T12:21:30Z",
+            "owner": "dulsi",
+            "repo": "btbuilder",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNox",
+          "description": "Collaboration project extending the Nox engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-11-23T12:04:40Z",
+            "owner": "noxworld-dev",
+            "repo": "opennox",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thirdeye",
+          "description": "Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:53:14Z",
+            "owner": "psi29a",
+            "repo": "thirdeye",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zorkClone",
+          "description": "Reimplementation of the original Zork game developed by Infocom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-01T04:57:06Z",
+            "owner": "vatbub",
+            "repo": "zorkClone",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amber",
+          "description": "Engine for the Amber trilogy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-27T14:30:27Z",
+            "owner": "Pyrdacor",
+            "repo": "Amber",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "castarook",
+          "description": "Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles blending strategy and role-playing elements in a living game world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:44:35Z",
+            "owner": "SamoraCletus",
+            "repo": "castarook",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "RPG"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VVVVV",
+          "description": "The source code to VVVVVV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ActionScript",
+            "last_commit": "2026-08-11T14:43:06Z",
+            "owner": "TerryCavanagh",
+            "repo": "VVVVVV",
+            "stars": 8006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnleashedRecomp",
+          "description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T11:05:43Z",
+            "owner": "hedge-dev",
+            "repo": "UnleashedRecomp",
+            "stars": 4956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jak Project",
+          "description": "The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-08-12T06:32:29Z",
+            "owner": "open-goal",
+            "repo": "jak-project",
+            "stars": 3480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BanjoRecomp",
+          "description": "PC Port of Banjo-Kazooie made using N64: Recompiled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T19:43:17Z",
+            "owner": "BanjoRecomp",
+            "repo": "BanjoRecomp",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDLPoP",
+          "description": "Port of Prince of Persia, based on the disassembly of the DOS version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-24T11:24:48Z",
+            "owner": "NagyD",
+            "repo": "SDLPoP",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghostship",
+          "description": "Super Mario 64 reimplementation for PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T15:27:45Z",
+            "owner": "HarbourMasters",
+            "repo": "Ghostship",
+            "stars": 664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jazz² Resurrection",
+          "description": "Reimplementation of Jazz Jackrabbit 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-01T17:52:54Z",
+            "owner": "deathkiller",
+            "repo": "jazz2",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NXEngine-evo",
+          "description": "Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-04T02:13:55Z",
+            "owner": "nxengine",
+            "repo": "nxengine-evo",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alive Reversing",
+          "description": "Reimplementation of Oddworld: Abe's Exoddus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T10:33:34Z",
+            "owner": "AliveTeam",
+            "repo": "alive_reversing",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnispeak",
+          "description": "Reimplementation of Commander Keen in Goodbye Galaxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T09:03:41Z",
+            "owner": "sulix",
+            "repo": "omnispeak",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Secret Chronicles of Dr. M",
+          "description": "Adaptation of Secret Mario Chronicles. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:28:06Z",
+            "owner": "Secretchronicles",
+            "repo": "TSC",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lionheart Remake",
+          "description": "Java remake of Lionheart Amiga game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-24T11:39:12Z",
+            "owner": "b3dgs",
+            "repo": "lionheart-remake",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prince-Monogame",
+          "description": "Monogame implementation of Prince of Persia 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-02T23:26:04Z",
+            "owner": "salvadorc17",
+            "repo": "Prince-Monogame",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sm64js",
+          "description": "Super Mario 64 reimplementation in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-22T21:24:51Z",
+            "owner": "sm64jsarchive",
+            "repo": "sm64jsarchive",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManicMinerLL",
+          "description": "A re-working of Manic Miner onto the DS using levels created for other official computer released versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-01-30T19:14:09Z",
+            "owner": "benbaker76",
+            "repo": "ManicMinerLL",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Platformer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wipEout Rewrite",
+          "description": "This is a re-implementation of the 1995 PSX game wipEout. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T15:57:21Z",
+            "owner": "phoboslab",
+            "repo": "wipeout-rewrite",
+            "stars": 2948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpagettiKart",
+          "description": "Reimplementation of Mario Kart 64 for PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:21:27Z",
+            "owner": "HarbourMasters",
+            "repo": "SpaghettiKart",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dethrace",
+          "description": "Reverse engineering the 1997 game \"Carmageddon\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:37:55Z",
+            "owner": "dethrace-labs",
+            "repo": "dethrace",
+            "stars": 1175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNFS",
+          "description": "Attempt to recreate the classic Need for Speed Games (1-6).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-21T14:43:02Z",
+            "owner": "OpenNFS",
+            "repo": "OpenNFS",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vangers",
+          "description": "Racing/RPG hybrid made open-source by its creators, written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T04:16:03Z",
+            "owner": "KranX",
+            "repo": "Vangers",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vange-rs",
+          "description": "The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T14:32:30Z",
+            "owner": "kvark",
+            "repo": "vange-rs",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reburn 3",
+          "description": "A work-in-progress open source reimplementation of Burnout 3: Takedown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-17T13:36:46Z",
+            "owner": "reburndev",
+            "repo": "reburn3",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreeRally",
+          "description": "Death Rally engine reimplementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-10T11:37:12Z",
+            "owner": "enriquesomolinos",
+            "repo": "DreeRally",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OutRun",
+          "description": "A new version of the game Out Run of 1986 for PC using SFML and C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-07T22:35:33Z",
+            "owner": "ZgzInfinity",
+            "repo": "OutRun",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dRally",
+          "description": "Open Source Engine / Death Rally [1996]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-26T08:56:53Z",
+            "owner": "urxp",
+            "repo": "dRally",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiOctaneTools",
+          "description": "Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-12T18:12:30Z",
+            "owner": "movAX13h",
+            "repo": "HiOctaneTools",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tube64",
+          "description": "64-bit vesion of DOS game Tube (Bullfrog, 1994)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-07T20:38:51Z",
+            "owner": "rep-stosw",
+            "repo": "tube64",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hi-octane202x",
+          "description": "Hi-Octane with level editor using Irrlicht engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T13:08:06Z",
+            "owner": "woalexan",
+            "repo": "hi-octane202x",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retruxx",
+          "description": "Reverse engineered Hard Truck Apocalypse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-10T19:54:16Z",
+            "owner": "mindflower",
+            "repo": "retruxx",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open76",
+          "description": "Interstate '76 engine reimplementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-18T14:18:56Z",
+            "owner": "rob518183",
+            "repo": "Open76",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Racing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Endless Sky",
+          "description": "Space exploration, trading, and combat game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T04:36:13Z",
+            "owner": "endless-sky",
+            "repo": "endless-sky",
+            "stars": 7492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DXX-Rebirth",
+          "description": "Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T00:55:31Z",
+            "owner": "dxx-rebirth",
+            "repo": "dxx-rebirth",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Librelancer",
+          "description": "Reimplementation of the 2003 space game Freelancer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:50:26Z",
+            "owner": "Librelancer",
+            "repo": "Librelancer",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FS2Open",
+          "description": "FreeSpace2 Source Code Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T06:32:14Z",
+            "owner": "scp-fs2open",
+            "repo": "fs2open.github.com",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForsakenX",
+          "description": "Forsaken game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-01T18:09:24Z",
+            "owner": "ForsakenX",
+            "repo": "forsaken",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dxx-redux",
+          "description": "Descent 1&2 source port based on DXX-Retro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-18T20:31:08Z",
+            "owner": "dxx-redux",
+            "repo": "dxx-redux",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForsakenW",
+          "description": "The Forsaken source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-06-25T23:46:14Z",
+            "owner": "ForsakenW",
+            "repo": "forsaken",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dxx-vr",
+          "description": "Descent 1&2 VR source port based on DXX-Retro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-31T10:36:31Z",
+            "owner": "DMJC",
+            "repo": "dxx-vr",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Descent3",
+          "description": "Descent 3 by Outrage Entertainment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-25T23:44:37Z",
+            "owner": "DMJC",
+            "repo": "Descent3",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forsaken-3ds",
+          "description": "Nintendo 3DS port of Forsaken (1998)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-01T23:35:57Z",
+            "owner": "colbyshores",
+            "repo": "forsaken-3ds",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darknova2",
+          "description": "Dark Nova ][ — cross-platform space trading game (Space Trader remake)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-16T01:12:14Z",
+            "owner": "deadjim",
+            "repo": "darknova2",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Simulator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mindustry",
+          "description": "The automation tower defense RTS written in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:12:10Z",
+            "owner": "Anuken",
+            "repo": "Mindustry",
+            "stars": 28590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRA",
+          "description": "Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T16:36:18Z",
+            "owner": "OpenRA",
+            "repo": "OpenRA",
+            "stars": 17220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRCT2",
+          "description": "Recreation of RollerCoaster Tycoon 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:34:00Z",
+            "owner": "OpenRCT2",
+            "repo": "OpenRCT2",
+            "stars": 16065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openage",
+          "description": "Clone of the Age of Empires II engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T10:38:52Z",
+            "owner": "SFTtech",
+            "repo": "openage",
+            "stars": 14372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unciv",
+          "description": "Open-source Android/Desktop remake of Civ V.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T05:37:46Z",
+            "owner": "yairm210",
+            "repo": "Unciv",
+            "stars": 11091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTTD",
+          "description": "OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:01:51Z",
+            "owner": "OpenTTD",
+            "repo": "OpenTTD",
+            "stars": 8162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCMI",
+          "description": "Engine for Heroes of Might and Magic III.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T09:25:58Z",
+            "owner": "vcmi",
+            "repo": "vcmi",
+            "stars": 5778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSC2K",
+          "description": "Remake of SimCity 2000 by Maxis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-27T03:38:22Z",
+            "owner": "nicholas-ochoa",
+            "repo": "OpenSC2K",
+            "stars": 5101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CorsixTH",
+          "description": "Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T14:39:52Z",
+            "owner": "CorsixTH",
+            "repo": "CorsixTH",
+            "stars": 4518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond-All-Reason",
+          "description": "Open source RTS game built on top of the Recoil RTS Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T05:50:18Z",
+            "owner": "beyond-all-reason",
+            "repo": "Beyond-All-Reason",
+            "stars": 4146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warzone 2100",
+          "description": "Free and open-source real time strategy game. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:57:00Z",
+            "owner": "Warzone2100",
+            "repo": "warzone2100",
+            "stars": 3909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fheroes2",
+          "description": "Free implementation of Heroes of Might and Magic II game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:50:46Z",
+            "owner": "ihhub",
+            "repo": "fheroes2",
+            "stars": 3433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julius",
+          "description": "Reimplementation of Caesar III.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-23T17:39:13Z",
+            "owner": "bvschaik",
+            "repo": "julius",
+            "stars": 3345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "permafrost-engine",
+          "description": "An OpenGL RTS game engine written in C based on Everglory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T18:00:07Z",
+            "owner": "eduard-permyakov",
+            "repo": "permafrost-engine",
+            "stars": 2758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFrontIO",
+          "description": "Online browser-based RTS game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:24:06Z",
+            "owner": "openfrontio",
+            "repo": "OpenFrontIO",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenXcom",
+          "description": "Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-05T21:25:38Z",
+            "owner": "OpenXcom",
+            "repo": "OpenXcom",
+            "stars": 2204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ancient Beast",
+          "description": "Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:38:13Z",
+            "owner": "FreezingMoon",
+            "repo": "AncientBeast",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLoco",
+          "description": "Reimplementation of Chris Sawyer's Locomotion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:49:59Z",
+            "owner": "OpenLoco",
+            "repo": "OpenLoco",
+            "stars": 1853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDUNE",
+          "description": "Recreation of the popular game Dune II.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-20T00:08:51Z",
+            "owner": "OpenDUNE",
+            "repo": "OpenDUNE",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSAGE",
+          "description": "C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-30T23:01:45Z",
+            "owner": "OpenSAGE",
+            "repo": "OpenSAGE",
+            "stars": 1625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freeciv",
+          "description": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:57:36Z",
+            "owner": "freeciv",
+            "repo": "freeciv",
+            "stars": 1577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "triplea",
+          "description": "TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:12:54Z",
+            "owner": "triplea-game",
+            "repo": "triplea",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openblack",
+          "description": "Reimplementation of Black & White.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T04:03:37Z",
+            "owner": "openblack",
+            "repo": "openblack",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeneralsGameCode",
+          "description": "Command and Conquer: Generals - Zero Hour",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:42:09Z",
+            "owner": "TheSuperHackers",
+            "repo": "GeneralsGameCode",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unvanquished",
+          "description": "Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T15:01:05Z",
+            "owner": "Unvanquished",
+            "repo": "Unvanquished",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHV",
+          "description": "Open-source implementation of Hard Vacuum. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T14:49:08Z",
+            "owner": "OpenHV",
+            "repo": "OpenHV",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeeperRL",
+          "description": "Roguelike dungeon builder inspired by Dwarf Fortress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-27T19:50:05Z",
+            "owner": "miki151",
+            "repo": "keeperrl",
+            "stars": 995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeeperFX",
+          "description": "Open source remake and Fan Expansion of Dungeon Keeper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:25:10Z",
+            "owner": "dkfans",
+            "repo": "keeperfx",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero-K",
+          "description": "Open source RTS game running on the Spring/Recoil engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-08T15:30:59Z",
+            "owner": "ZeroK-RTS",
+            "repo": "Zero-K",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCiv3",
+          "description": "OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T18:30:35Z",
+            "owner": "C7-Game",
+            "repo": "OpenCiv3",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLSMAC",
+          "description": "Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-02T10:59:49Z",
+            "owner": "afwbkbc",
+            "repo": "glsmac",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Fodder",
+          "description": "Open-source implementation of Cannon Fodder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-20T23:50:23Z",
+            "owner": "OpenFodder",
+            "repo": "openfodder",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenApocalypse",
+          "description": "Rebuild of the X-COM: Apocalypse engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-25T23:44:14Z",
+            "owner": "OpenApoc",
+            "repo": "OpenApoc",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Return To The Roots",
+          "description": "Settlers II remake written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:05:41Z",
+            "owner": "Return-To-The-Roots",
+            "repo": "s25client",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jagged Alliance Stracciatella",
+          "description": "Makes Jagged Alliance 2 available on a wide range of platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:02:43Z",
+            "owner": "ja2-stracciatella",
+            "repo": "ja2-stracciatella",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenKeeper",
+          "description": "Dungeon Keeper II remake in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T07:59:41Z",
+            "owner": "tonihele",
+            "repo": "OpenKeeper",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VanillaConquer",
+          "description": "Command and Conquer and Red Alert original release source port based on the remaster source code drop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T13:57:31Z",
+            "owner": "TheAssemblyArmada",
+            "repo": "Vanilla-Conquer",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wargus",
+          "description": "Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-29T13:58:59Z",
+            "owner": "Wargus",
+            "repo": "wargus",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MegaGlest",
+          "description": "MegaGlest real-time strategy game engine (cross-platform, 3-d).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T02:23:25Z",
+            "owner": "MegaGlest",
+            "repo": "megaglest-source",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KaM Remake",
+          "description": "RTS game remake of Knights and Merchants written in Delphi from scratch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Pascal",
+            "last_commit": "2026-06-23T06:34:27Z",
+            "owner": "Kromster80",
+            "repo": "kam_remake",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dune-II---The-Maker",
+          "description": "A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T15:54:35Z",
+            "owner": "stefanhendriks",
+            "repo": "Dune-II---The-Maker",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Romanov's Vengeance",
+          "description": "Remake of C&C Red Alert 2 based on the OpenRA engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-26T17:44:53Z",
+            "owner": "MustaphaTR",
+            "repo": "Romanovs-Vengeance",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sourcehold",
+          "description": "Implementation of Stronghold by Firefly Studios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-08T17:24:53Z",
+            "owner": "sourcehold",
+            "repo": "Sourcehold",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CivOne",
+          "description": "Implementation of Sid Meier's Civilization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-02T02:29:31Z",
+            "owner": "Solen1985",
+            "repo": "CivOne",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WarKingdoms",
+          "description": "Unity RTS Prototype (Warcraft 3 Style)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-08T20:19:50Z",
+            "owner": "skyteks",
+            "repo": "WarKingdoms",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syndicate Wars",
+          "description": "Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T11:58:07Z",
+            "owner": "swfans",
+            "repo": "syndwarsfx",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allure",
+          "description": "A massive HJSON mod focusing around quick-action, immersive RTS gameplay. Lore package included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T21:25:48Z",
+            "owner": "LixieWulf",
+            "repo": "Allure",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Race into Space",
+          "description": "Version of Interplay's Buzz Aldrin's Race into Space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T15:16:29Z",
+            "owner": "raceintospace",
+            "repo": "raceintospace",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex Command Community Project Source",
+          "description": "Community-driven effort to continue the development of Cortex Command.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-01-05T01:51:06Z",
+            "owner": "cortex-command-community",
+            "repo": "Cortex-Command-Community-Project-Source",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Panzer",
+          "description": "HTML5 Panzer General 2. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-27T06:50:26Z",
+            "owner": "nicupavel",
+            "repo": "openpanzer",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Realms-of-Stars",
+          "description": "4X Strategy game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-30T05:12:25Z",
+            "owner": "tuomount",
+            "repo": "Open-Realms-of-Stars",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiomet",
+          "description": "Kiomet.com real-time strategy game (repository commits may lag behind game updates)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-10T02:21:14Z",
+            "owner": "SoftbearStudios",
+            "repo": "kiomet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freeserf.net",
+          "description": "Settlers 1 clone written in C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-16T09:28:21Z",
+            "owner": "Pyrdacor",
+            "repo": "freeserf.net",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pillage-First-Ask-Questions-Later",
+          "description": "An open-source, single-player, Travian alternative browser strategy game, inspired by Travian T4 and Travian Kingdoms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:02:39Z",
+            "owner": "jurerotar",
+            "repo": "Pillage-First-Ask-Questions-Later",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rise-of-legions",
+          "description": "Rise of Legions is a hybrid of MOBA, tower defense and deckbuilding - with fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck and crush your enemies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2022-01-19T13:53:45Z",
+            "owner": "BrokenGamesUG",
+            "repo": "rise-of-legions",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTPW",
+          "description": "An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-17T10:32:42Z",
+            "owner": "OpenTPW",
+            "repo": "OpenTPW",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mc2",
+          "description": "Mech Commander 2 open source engine + OpenGL Linux port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-08T08:42:13Z",
+            "owner": "alariq",
+            "repo": "mc2",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evolution-RTS",
+          "description": "Evolution RTS is a free an Open Source RTS game designed using the Spring Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-03-07T01:20:38Z",
+            "owner": "EvolutionRTS",
+            "repo": "Evolution-RTS",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "war1",
+          "description": "A remake of Warcraft: Orcs & Humans written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T18:54:42Z",
+            "owner": "acoto87",
+            "repo": "war1",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thinker",
+          "description": "Improved game engine features for SMACX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T15:36:46Z",
+            "owner": "induktio",
+            "repo": "thinker",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPHD",
+          "description": "OutpostHD - Open source remake of Sierra On-Line's Outpost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T05:43:14Z",
+            "owner": "OutpostUniverse",
+            "repo": "OPHD",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OutpostHD",
+          "description": "Remake of Sierra On-Line's Outpost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T05:43:14Z",
+            "owner": "OutpostUniverse",
+            "repo": "OPHD",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenKrush",
+          "description": "Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on the OpenRA engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-17T08:19:26Z",
+            "owner": "IceReaper",
+            "repo": "OpenKrush",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSA",
+          "description": "Remake of Swarm Assault based on the OpenRA engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-01T19:41:56Z",
+            "owner": "Dzierzan",
+            "repo": "OpenSA",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flame",
+          "description": "Dungeon Keeper II partial recompilation with bug fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-28T21:10:07Z",
+            "owner": "DiaLight",
+            "repo": "Flame",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antares",
+          "description": "Remake of Ares, a tactical space combat game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-26T00:23:17Z",
+            "owner": "arescentral",
+            "repo": "antares",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1oom",
+          "description": "1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:54:10Z",
+            "owner": "1oom-fork",
+            "repo": "1oom",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simutrans",
+          "description": "Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:39:49Z",
+            "owner": "simutrans",
+            "repo": "simutrans",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCrystalCaves",
+          "description": "OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:03:24Z",
+            "owner": "OpenCrystalCaves",
+            "repo": "OpenCrystalCaves",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shattered Paradise",
+          "description": "Remake of C&C Tiberian Sun based on the OpenRA engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-27T08:16:26Z",
+            "owner": "ABrandau",
+            "repo": "Shattered-Paradise-SDK",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenE2140",
+          "description": "Remake of Earth 2140 based on the OpenRA engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T21:40:17Z",
+            "owner": "OpenE2140",
+            "repo": "OpenE2140",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rotp-Fusion",
+          "description": "Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T05:59:12Z",
+            "owner": "BrokenRegistry",
+            "repo": "Rotp-Fusion",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxr",
+          "description": "A turn based strategy game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T07:03:56Z",
+            "owner": "maxr-dot-org",
+            "repo": "maxr",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tribal Trouble",
+          "description": "Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T22:18:07Z",
+            "owner": "Tribal-Trouble",
+            "repo": "tribaltrouble",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "machines",
+          "description": "Community fork of Machines: Wired for War",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:39:18Z",
+            "owner": "WiredForWar",
+            "repo": "machines",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLKeeper",
+          "description": "Open Source Dungeon Keeper 2 Reimplementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-18T07:02:33Z",
+            "owner": "codenamecpp",
+            "repo": "GLKeeper",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dungeon Keeper Remake",
+          "description": "A modern remake of Dungeon Keeper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-29T20:36:10Z",
+            "owner": "Themperror",
+            "repo": "Dungeon-Keeper-Remake",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDungeonsPlus",
+          "description": "Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T09:58:57Z",
+            "owner": "tomluchowski",
+            "repo": "OpenDungeonsPlus",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parabellum",
+          "description": "An attempt to build a #Travian 3.x clone written in #Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-28T19:08:35Z",
+            "owner": "andreapavoni",
+            "repo": "parabellum",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmperorReborn",
+          "description": "Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T15:13:42Z",
+            "owner": "azmawee",
+            "repo": "EmperorReborn",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rebellion2",
+          "description": "Remake of the classic Star Wars Rebellion game for PC using Unity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:26:58Z",
+            "owner": "davidadas",
+            "repo": "rebellion2",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vera20k",
+          "description": "Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:45:21Z",
+            "owner": "Yrvera",
+            "repo": "vera20k",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invazion",
+          "description": "Azimutant (formerly named \"InvaZion\") is a collaborative game inspired by Hordes.fr/Die2Nite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T19:06:40Z",
+            "owner": "Nadawoo",
+            "repo": "invazion",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Populous The Beginning",
+          "description": "Open Repository For A Bullfrog Productions Game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T09:23:15Z",
+            "owner": "TylerTheFox",
+            "repo": "Populous-The-Beginning-Public",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ugh-Guys-",
+          "description": "A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world — Three.js + Vite, three factions, fog of war, pathfinding, and an AI opponent. 100% procedural, no external assets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-08T01:26:37Z",
+            "owner": "atxgreene",
+            "repo": "Ugh-Guys-",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grenzmark",
+          "description": "Grenzmark is a Godot 4 remake of the Settlers II, Return to the Roots and Widelands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-06-24T21:14:20Z",
+            "owner": "JobbeDeluxe",
+            "repo": "grenzmark",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keeperfx-linux-alpha",
+          "description": "KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T06:47:22Z",
+            "owner": "ForkedInTime",
+            "repo": "keeperfx-linux-alpha",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transarctica-2",
+          "description": "Remake of the classic game Transarctica (In development)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-07-15T19:14:16Z",
+            "owner": "SembeiNorimaki",
+            "repo": "Transarctica-2",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aeon",
+          "description": "Open-source browser god-game & civilization sim where every creature is a real, evolving neural network. Fusion of WorldBox (god sandbox) and Civ (deep progression) - lead a people in Survival or shape the world in Creative. Artificial life, genetic evolution, emergent societies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T16:19:13Z",
+            "owner": "lordbasilaiassistant-sudo",
+            "repo": "aeon",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grid-wars",
+          "description": "AI-generated TRON-themed 3D hex strategy game (three.js): single-player vs the MCP + online multiplayer. Untested — use at your own risk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-23T22:12:50Z",
+            "owner": "loosecannons",
+            "repo": "grid-wars",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS.Hawkoniwa-Island",
+          "description": "A homemade island development game inspired by \"箱庭諸島\". Supports auto-save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:54:04Z",
+            "owner": "masaru-star",
+            "repo": "JS.Hakoniwa-Island",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ozymandias",
+          "description": "An open source re-implementation of Pharaoh in the Julius/Augustus engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-20T23:53:48Z",
+            "owner": "dalerank",
+            "repo": "Ozymandias",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PopResourceEditor",
+          "description": "Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-27T09:13:51Z",
+            "owner": "Toksisitee",
+            "repo": "PopResourceEditor",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WazzaP's Boss Generals Mod",
+          "description": "The official repository of WazzaP's Boss Generals mod for C&C Generals Zero Hour",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-09T15:12:34Z",
+            "owner": "ItsWazzaP",
+            "repo": "wazzaps-boss-generals",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "durer-jatekok",
+          "description": "Online version of previous strategy games at Dürer Competition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:21:42Z",
+            "owner": "a-gondolkodas-orome",
+            "repo": "durer-jatekok",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DungeonKeeperReborn",
+          "description": "Dungeon Keeper Reborn in TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T12:57:56Z",
+            "owner": "joko1977-ui",
+            "repo": "DungeonKeeperReborn",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hex-tactics",
+          "description": "PIXI.js + React hex-grid tactical battle sandbox — procedural strategic/tactical worlds, a pure-function battle engine, 5 motion modes, and a defendHeight formation system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T13:14:58Z",
+            "owner": "CesarAugustoAndrade",
+            "repo": "game-hex-tactics",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRAG-Skill",
+          "description": "Enable evidence-first retrieval augmented generation within Claude Code using prompt-only input and in-chat source material.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T03:14:06Z",
+            "owner": "Kiki276",
+            "repo": "OpenRAG-Skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensage-adk",
+          "description": "Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:18:58Z",
+            "owner": "luann8331",
+            "repo": "opensage-adk",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufoai",
+          "description": "UFO: Alien Invasion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-03T16:12:18Z",
+            "owner": "gorsing",
+            "repo": "ufoai",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CzechDraughts",
+          "description": "Cross-platform Czech Draughts (Česká Dáma) game implemented as a C# console application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T17:21:36Z",
+            "owner": "david-soliar",
+            "repo": "CzechDraughts",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChaosGame",
+          "description": "chaotic 2D real-time strategy game built from scratch. Command units with random skills, unlock advanced tech trees, and survive the tactical onslaught.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T06:19:41Z",
+            "owner": "0Mart00",
+            "repo": "ChaosGame",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DungeonKeeper",
+          "description": "Dungeon Keeper C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T20:36:33Z",
+            "owner": "Kamikitte",
+            "repo": "DungeonKeeper",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "galaxyofdrones",
+          "description": "An open source multiplayer space strategy game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-18T23:56:41Z",
+            "owner": "0wum0",
+            "repo": "galaxyofdrones",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "green-turkiye",
+          "description": "Raise awareness of environmental pollution in Turkiye through this engaging strategy game designed to inspire action and promote sustainability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:39:54Z",
+            "owner": "zsdani68-cell",
+            "repo": "green-turkiye",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLRR",
+          "description": "An open source re-implementation of LEGO Rock Raiders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-06T16:34:55Z",
+            "owner": "vs49688",
+            "repo": "OpenLRR",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "singularity",
+          "description": "A simulation of a true AI. Survive, grow, and learn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T02:01:03Z",
+            "owner": "addictgamer",
+            "repo": "singularity-game-fork",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terra-concordia-public",
+          "description": "Press kit, release notes & community resources for Terra Concordia — a digital eurogame by NCB Company.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T19:29:06Z",
+            "owner": "terraconcordiagame",
+            "repo": "terra-concordia-public",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheOldWorld",
+          "description": "2D Isometric RTS Game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T05:44:02Z",
+            "owner": "Towhidul-Islam5797",
+            "repo": "TheOldWorld",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaultfront",
+          "description": "VaultFront is a browser RTS and a derived AGPL fork of OpenFrontIO, itself evolved from WarFront.io. Created with help from ChatGPT 5.4 and Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:48:42Z",
+            "owner": "VaultSparkStudios",
+            "repo": "vaultfront",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wages of War",
+          "description": "A clean-room, open-source Rust reverse enginering of the Wages of War: The Business of Battle (1996) engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-29T09:42:20Z",
+            "owner": "suhteevah",
+            "repo": "wages-of-war",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "War8",
+          "description": "Turn-based abstract board game built with C++ and SFML, based on \"Război în 8\" from Nicolae Oprișiu’s \"Olimpiada Jocurilor Raționale\" (\"The Olympiad of Rational Games\", Chapter 10). Includes PvP, PvC, CvC, turn timer, HUD, leaderboard, themes, and Easy/Hard AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T15:37:32Z",
+            "owner": "qFlavius",
+            "repo": "War8",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freecivworld",
+          "description": "Freecivworld.net is the 3D version of Freeciv.",
+          "children": []
+        }
+      ],
+      "title": "Strategy"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:52:24.865Z",
+    "original_repository": "radek-sprta/awesome-game-remakes",
+    "original_repository_sha": "c8aea922cea2e061a5c5ed9b38884350665e4ff6",
+    "enhanced_repository": "enhansome/enhansome-game-remakes",
+    "enhanced_repository_description": null,
+    "title": "Awesome Game Remakes with stars"
+  }
+}
