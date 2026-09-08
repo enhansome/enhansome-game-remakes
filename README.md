@@ -6,12 +6,12 @@ Most games require original asssets. The ones not requiring paid assets are mark
 
 If you are also interested in clones and similar games (0 A.D. etc.), take a look at [Open Source Game Clones](https://osgameclones.com/).
 
-If you are looking for game archive file formats see: [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing/) ⭐ 209 | 🐛 0 | 🌐 Python | 📅 2026-09-04
+If you are looking for game archive file formats see: [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing/) ⭐ 211 | 🐛 0 | 🌐 Python | 📅 2026-09-04
 
 If you are looking for not only remakes have a look at:
 
-* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) ⭐ 3,055 | 🐛 8 | 📅 2026-08-14
-* [OSGL - Open Source Games List](https://github.com/Trilarion/opensourcegames) ⭐ 1,045 | 🐛 198 | 🌐 Python | 📅 2026-09-06
+* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) ⭐ 3,059 | 🐛 9 | 📅 2026-08-14
+* [OSGL - Open Source Games List](https://github.com/Trilarion/opensourcegames) ⭐ 1,045 | 🐛 199 | 🌐 Python | 📅 2026-09-06
 
 ***
 
@@ -30,16 +30,16 @@ If you are looking for not only remakes have a look at:
 
 ## Action
 
-* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,071 | 🐛 167 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine.
-* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,619 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - Reimplementation of GTA: San Andreas game engine in Unity.
-* [OpenJK](https://github.com/JACoders/OpenJK) ⭐ 2,289 | 🐛 279 | 🌐 C++ | 📅 2026-07-11 - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
+* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,072 | 🐛 167 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine.
+* [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐ 2,620 | 🐛 40 | 🌐 C# | 📅 2023-06-16 - Reimplementation of GTA: San Andreas game engine in Unity.
+* [OpenJK](https://github.com/JACoders/OpenJK) ⭐ 2,291 | 🐛 279 | 🌐 C++ | 📅 2026-07-11 - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 * [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) ⭐ 1,003 | 🐛 16 | 🌐 C++ | 📅 2024-05-26 - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
-* [TR1X](https://github.com/LostArtefacts/TR1X) ⭐ 984 | 🐛 149 | 🌐 C | 📅 2026-09-07 - Open source implementation of the classic Tomb Raider I game.
+* [TR1X](https://github.com/LostArtefacts/TR1X) ⭐ 987 | 🐛 159 | 🌐 C | 📅 2026-09-07 - Open source implementation of the classic Tomb Raider I game.
 * [Carnage3D](https://github.com/codenamecpp/carnage3d) ⭐ 561 | 🐛 18 | 🌐 C++ | 📅 2026-08-09 - Reimplementation of Grand Theft Auto.
 * [TOMB5](https://github.com/TOMB5/TOMB5) ⭐ 518 | 🐛 26 | 🌐 C | 📅 2022-02-03 - Tomb Raider: Chronicles disassembly translated to C source code.
 * [donut](https://github.com/plowteam/donut) ⭐ 481 | 🐛 10 | 🌐 C++ | 📅 2024-03-27 - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
 * [Heretic2R](https://github.com/m-x-d/Heretic2R) ⭐ 259 | 🐛 11 | 🌐 C | 📅 2026-08-21 - Heretic II (1998, Raven Software) reverse-engineered source port.
-* [remc2](https://github.com/turican0/remc2) ⭐ 148 | 🐛 34 | 🌐 C++ | 📅 2026-09-02 - Reverse engineering of Magic Carpet 2 from Assembler.
+* [remc2](https://github.com/turican0/remc2) ⭐ 148 | 🐛 36 | 🌐 C++ | 📅 2026-09-07 - Reverse engineering of Magic Carpet 2 from Assembler.
 * [OpenMB](https://github.com/cookgreen/OpenMB) ⭐ 142 | 🐛 3 | 🌐 C# | 📅 2026-07-21 - Role-playing game engine for Taleworlds' Mount\&Blade Series.
 * [heretic2](https://github.com/0lvin/heretic2) ⭐ 32 | 🐛 2 | 🌐 C | 📅 2026-08-16 - Heretic2 playground sandbox.
 * [Speed-Academy](https://github.com/kugelrund/Speed-Academy) ⭐ 19 | 🐛 5 | 🌐 C++ | 📅 2026-07-29 - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
@@ -50,10 +50,10 @@ If you are looking for not only remakes have a look at:
 
 ## Adventure
 
-* [Dusklight](https://github.com/TwilitRealm/dusklight) ⭐ 5,226 | 🐛 360 | 🌐 C++ | 📅 2026-09-07 - Dusklight is a reverse-engineered reimplementation of Twilight Princess.
-* [ScummVM](https://github.com/scummvm/scummvm) ⭐ 2,803 | 🐛 44 | 🌐 C++ | 📅 2026-09-07 - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
+* [Dusklight](https://github.com/TwilitRealm/dusklight) ⭐ 5,233 | 🐛 361 | 🌐 C++ | 📅 2026-09-08 - Dusklight is a reverse-engineered reimplementation of Twilight Princess.
+* [ScummVM](https://github.com/scummvm/scummvm) ⭐ 2,803 | 🐛 46 | 🌐 C++ | 📅 2026-09-08 - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 * [lba2remake](https://github.com/LBALab/lba2remake) ⭐ 285 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-17 - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
-* [lba2-classic-community](https://github.com/LBALab/lba2-classic-community) ⭐ 104 | 🐛 69 | 🌐 C++ | 📅 2026-09-06 - Little Big Adventure 2 engine source code.
+* [lba2-classic-community](https://github.com/LBALab/lba2-classic-community) ⭐ 104 | 🐛 69 | 🌐 C++ | 📅 2026-09-08 - Little Big Adventure 2 engine source code.
 * [twin-e](https://github.com/LBALab/twin-e) ⭐ 90 | 🐛 8 | 🌐 C | 📅 2025-08-31 - TwinEngine: a Little Big Adventure engine.
 * [timeco](https://github.com/LBALab/timeco) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-05-17 - Time Commando Reimplementation
 * [DetectiveDS](https://github.com/RustyPixelsUK/DetectiveDS) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-01-30 - A remake of the original C64 classic The Detective Game for Nintendo DS.
@@ -65,11 +65,11 @@ If you are looking for not only remakes have a look at:
 * [Taisei](https://github.com/taisei-project/taisei) ⭐ 1,615 | 🐛 33 | 🌐 C | 📅 2026-09-06 - Fan-made, open-source clone of the Touhou series. :flower\_playing\_cards:
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) ⭐ 1,083 | 🐛 117 | 🌐 C | 📅 2026-08-30 - Classic overhead run-and-gun game. :flower\_playing\_cards:
 * [OpenTyrian](https://github.com/opentyrian/opentyrian) ⭐ 567 | 🐛 24 | 🌐 C | 📅 2026-08-21 - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
-* [openomf](https://github.com/omf2097/openomf) ⭐ 478 | 🐛 107 | 🌐 C | 📅 2026-09-07 - One Must Fall 2097 Remake.
-* [OpenJazz](https://github.com/AlisterT/openjazz) ⭐ 410 | 🐛 31 | 🌐 C | 📅 2026-09-01 - Free, open-source version of the classic Jazz Jackrabbit™ games.
+* [openomf](https://github.com/omf2097/openomf) ⭐ 478 | 🐛 105 | 🌐 C | 📅 2026-09-07 - One Must Fall 2097 Remake.
+* [OpenJazz](https://github.com/AlisterT/openjazz) ⭐ 411 | 🐛 31 | 🌐 C | 📅 2026-09-01 - Free, open-source version of the classic Jazz Jackrabbit™ games.
 * [OpenClonk](https://github.com/openclonk/openclonk) ⭐ 401 | 🐛 25 | 🌐 C++ | 📅 2026-04-28 - Multiplayer action game where you control small and nimble humanoids.
 * [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) ⭐ 226 | 🐛 4 | 🌐 C | 📅 2026-03-31 - 8-player Bomberman clone for RetroArch/Libretro.
-* [Crimsonland](https://github.com/banteg/crimson) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2026-09-07 - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
+* [Crimsonland](https://github.com/banteg/crimson) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2026-09-08 - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 * [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) ⭐ 130 | 🐛 2 | 🌐 C | 📅 2026-08-09 - Classic ZX Spectrum game The Great Escape in portable C. :flower\_playing\_cards:
 * [Open Kick-Off](https://github.com/ssenegas/kickoff) ⭐ 60 | 🐛 3 | 🌐 Java | 📅 2024-08-01 - Rewriting attempt of the cult football game Kick Off 2. :flower\_playing\_cards:
 * [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) ⭐ 41 | 🐛 1 | 🌐 C++ | 📅 2024-12-14 - A game and editing tool that lets you create custom Legend of Zelda quests.
@@ -93,44 +93,44 @@ If you are looking for not only remakes have a look at:
 ## FPS
 
 * [ioquake3](https://github.com/ioquake/ioq3) ⭐ 2,816 | 🐛 155 | 🌐 C | 📅 2026-07-26 - The free software FPS engine that can be used to play Quake 3, or make your own game.
-* [xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) ⭐ 2,763 | 🐛 445 | 🌐 C | 📅 2026-09-06 - Xash3D FWGS engine
+* [xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) ⭐ 2,763 | 🐛 446 | 🌐 C | 📅 2026-09-07 - Xash3D FWGS engine
 * [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) ⭐ 2,406 | 🐛 337 | 🌐 C | 📅 2026-09-05 - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower\_playing\_cards:
 * [vkQuake](https://github.com/Novum/vkQuake) ⭐ 2,270 | 🐛 27 | 🌐 C | 📅 2026-09-07 - Vulkan Quake port based on QuakeSpasm.
-* [UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 2,193 | 🐛 625 | 🌐 C++ | 📅 2026-09-07 - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower\_playing\_cards:
+* [UZDoom](https://github.com/UZDoom/UZDoom) ⭐ 2,198 | 🐛 627 | 🌐 C++ | 📅 2026-09-08 - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower\_playing\_cards:
 * [dhewm3](https://github.com/dhewm/dhewm3) ⭐ 2,161 | 🐛 122 | 🌐 C++ | 📅 2026-06-08 - A source port of Doom 3.
-* [ClassiCube](https://github.com/ClassiCube/ClassiCube) ⭐ 2,049 | 🐛 567 | 🌐 C | 📅 2026-09-06 - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
-* [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) ⭐ 1,849 | 🐛 64 | 🌐 C++ | 📅 2026-08-07 - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
+* [ClassiCube](https://github.com/ClassiCube/ClassiCube) ⭐ 2,050 | 🐛 567 | 🌐 C | 📅 2026-09-07 - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
+* [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) ⭐ 1,849 | 🐛 65 | 🌐 C++ | 📅 2026-08-07 - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 * [Quake3e](https://github.com/ec-/Quake3e) ⭐ 1,517 | 🐛 41 | 🌐 C | 📅 2026-09-05 - Improved Quake III Arena engine.
-* [Freedoom](https://github.com/freedoom/freedoom) ⭐ 1,342 | 🐛 101 | 🌐 Python | 📅 2026-06-22 - Free software FPS based on the classic DOOM engine. :flower\_playing\_cards:
+* [Freedoom](https://github.com/freedoom/freedoom) ⭐ 1,343 | 🐛 101 | 🌐 Python | 📅 2026-06-22 - Free software FPS based on the classic DOOM engine. :flower\_playing\_cards:
 * [OpenSpades](https://github.com/yvt/openspades) ⭐ 1,244 | 🐛 248 | 🌐 C++ | 📅 2024-06-06 - Compatible client of Ace of Spades, a voxel FPS.
 * [The Force Engine](https://github.com/luciusDXL/TheForceEngine) ⭐ 1,158 | 🐛 111 | 🌐 C++ | 📅 2026-09-05 - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 * [SurrealEngine](https://github.com/dpjudas/SurrealEngine) ⭐ 1,102 | 🐛 11 | 🌐 C++ | 📅 2026-09-06 - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
-* [ironwail](https://github.com/andrei-drexler/ironwail) ⭐ 1,084 | 🐛 251 | 🌐 C | 📅 2026-08-31 - High-performance QuakeSpasm fork.
+* [ironwail](https://github.com/andrei-drexler/ironwail) ⭐ 1,085 | 🐛 251 | 🌐 C | 📅 2026-08-31 - High-performance QuakeSpasm fork.
 * [Yamagi Quake II](https://github.com/yquake2/yquake2) ⭐ 998 | 🐛 33 | 🌐 C | 📅 2026-09-06 - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
-* [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) ⭐ 944 | 🐛 90 | 🌐 C | 📅 2026-08-31 - A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
+* [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) ⭐ 944 | 🐛 88 | 🌐 C | 📅 2026-09-07 - A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
 * [Raze](https://github.com/ZDoom/Raze) ⭐ 881 | 🐛 139 | 🌐 C++ | 📅 2025-11-19 - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
-* [Aleph One](https://github.com/Aleph-One-Marathon/alephone) ⭐ 810 | 🐛 75 | 🌐 C++ | 📅 2026-09-01 - The open source continuation of Bungie’s Marathon 2 game engine.
-* [NBlood](https://github.com/nukeykt/NBlood) ⭐ 802 | 🐛 115 | 🌐 C++ | 📅 2026-08-26 - Port of the classic FPS Blood.
-* [OpenMoHAA](https://github.com/openmoh/openmohaa) ⭐ 801 | 🐛 100 | 🌐 C | 📅 2026-04-23 - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
-* [DoomRetro](https://github.com/bradharding/doomretro) ⭐ 768 | 🐛 93 | 🌐 C | 📅 2026-09-07 - Classic, refined DOOM source port for Windows PC. :flower\_playing\_cards:
+* [Aleph One](https://github.com/Aleph-One-Marathon/alephone) ⭐ 810 | 🐛 75 | 🌐 C++ | 📅 2026-09-08 - The open source continuation of Bungie’s Marathon 2 game engine.
+* [NBlood](https://github.com/nukeykt/NBlood) ⭐ 803 | 🐛 116 | 🌐 C++ | 📅 2026-08-26 - Port of the classic FPS Blood.
+* [OpenMoHAA](https://github.com/openmoh/openmohaa) ⭐ 802 | 🐛 100 | 🌐 C | 📅 2026-04-23 - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
+* [DoomRetro](https://github.com/bradharding/doomretro) ⭐ 768 | 🐛 93 | 🌐 C | 📅 2026-09-08 - Classic, refined DOOM source port for Windows PC. :flower\_playing\_cards:
 * [iortcw](https://github.com/iortcw/iortcw) ⭐ 751 | 🐛 50 | 🌐 C | 📅 2024-06-27 - Source port of Return to Castle Wolfenstein.
-* [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) ⭐ 601 | 🐛 167 | 🌐 C++ | 📅 2026-09-02 - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
-* [ericw-tools](https://github.com/ericwa/ericw-tools) ⭐ 503 | 🐛 140 | 🌐 C++ | 📅 2026-08-19 - Quake/Hexen 2 Map compiling tools.
-* [DSDA-Doom](https://github.com/kraflab/dsda-doom) ⭐ 502 | 🐛 82 | 🌐 C | 📅 2026-09-06 - A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.
+* [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) ⭐ 602 | 🐛 167 | 🌐 C++ | 📅 2026-09-08 - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
+* [ericw-tools](https://github.com/ericwa/ericw-tools) ⭐ 503 | 🐛 140 | 🌐 C++ | 📅 2026-09-07 - Quake/Hexen 2 Map compiling tools.
+* [DSDA-Doom](https://github.com/kraflab/dsda-doom) ⭐ 502 | 🐛 79 | 🌐 C | 📅 2026-09-07 - A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.
 * [ezQuake](https://github.com/ezQuake/ezquake-source) ⭐ 415 | 🐛 115 | 🌐 C | 📅 2026-08-19 - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
-* [MadnessPatch](https://github.com/Wemino/MadnessPatch) ⭐ 401 | 🐛 0 | 🌐 C++ | 📅 2026-09-03 - A patch that fixes various issues in the PC port of Alice: Madness Returns.
-* [BStone](https://github.com/bibendovsky/bstone) ⭐ 365 | 🐛 56 | 🌐 C | 📅 2026-08-08 - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
-* [VorpalFix](https://github.com/Wemino/VorpalFix) ⭐ 312 | 🐛 0 | 🌐 C++ | 📅 2026-07-05 - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
+* [MadnessPatch](https://github.com/Wemino/MadnessPatch) ⭐ 404 | 🐛 0 | 🌐 C++ | 📅 2026-09-03 - A patch that fixes various issues in the PC port of Alice: Madness Returns.
+* [BStone](https://github.com/bibendovsky/bstone) ⭐ 366 | 🐛 56 | 🌐 C | 📅 2026-08-08 - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+* [VorpalFix](https://github.com/Wemino/VorpalFix) ⭐ 313 | 🐛 0 | 🌐 C++ | 📅 2026-07-05 - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
 * [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) ⭐ 303 | 🐛 0 | 🌐 C++ | 📅 2026-06-03 - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen. :flower\_playing\_cards:
-* [Odamex](https://github.com/odamex/odamex) ⭐ 293 | 🐛 240 | 🌐 C++ | 📅 2026-09-07 - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower\_playing\_cards:
+* [Odamex](https://github.com/odamex/odamex) ⭐ 293 | 🐛 241 | 🌐 C++ | 📅 2026-09-08 - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower\_playing\_cards:
 * [BetterSpades](https://github.com/xtreme8000/BetterSpades/) ⭐ 281 | 🐛 48 | 🌐 C | 📅 2025-07-30 - Ace Of Spades open source implementation that runs on older machines.
 * [spearmint](https://github.com/clover-moe/spearmint) ⭐ 277 | 🐛 108 | 🌐 C | 📅 2026-05-25 - Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.
-* [The Eternity Engine](https://github.com/team-eternity/eternity) ⭐ 267 | 🐛 218 | 🌐 C++ | 📅 2026-09-04 - Advanced DOOM source port. :flower\_playing\_cards:
-* [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) ⭐ 215 | 🐛 16 | 🌐 C | 📅 2026-08-07 - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
+* [The Eternity Engine](https://github.com/team-eternity/eternity) ⭐ 267 | 🐛 217 | 🌐 C++ | 📅 2026-09-07 - Advanced DOOM source port. :flower\_playing\_cards:
+* [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) ⭐ 215 | 🐛 15 | 🌐 C | 📅 2026-09-07 - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
 * [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) ⭐ 189 | 🐛 19 | 🌐 C++ | 📅 2026-08-15 - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 * [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) ⭐ 178 | 🐛 31 | 🌐 C++ | 📅 2025-12-09 - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
 * [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) ⭐ 157 | 🐛 12 | 🌐 C++ | 📅 2026-01-14 - Open source game engine for Serious Sam Classic with Vulkan support.
-* [openQ4](https://github.com/themuffinator/openQ4) ⭐ 131 | 🐛 2 | 🌐 C++ | 📅 2026-09-04 - The modern binary replacement for QUAKE 4.
+* [openQ4](https://github.com/themuffinator/openQ4) ⭐ 131 | 🐛 3 | 🌐 C++ | 📅 2026-09-08 - The modern binary replacement for QUAKE 4.
 * [Allegiance](https://github.com/FreeAllegiance/Allegiance) ⭐ 102 | 🐛 4 | 🌐 C++ | 📅 2026-03-10 - Allegiance is RTS and FPS Space Combat game.
 * [EDGE-classic](https://github.com/edge-classic/EDGE-classic) ⭐ 101 | 🐛 2 | 🌐 C | 📅 2026-09-01 - Cross-Platform OpenGL Doom Source Port with powerful modding features.
 * [jfsw](https://github.com/jonof/jfsw/) ⭐ 99 | 🐛 3 | 🌐 C | 📅 2026-01-25 - Port of the 3D Realms game "Shadow Warrior".
@@ -153,14 +153,14 @@ If you are looking for not only remakes have a look at:
 * [mint-metal](https://github.com/zturtleman/mint-metal) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2026-06-17 - Incomplete (unusable for practical purposes) Heavy Metal F.A.K.K.² / American McGee's Alice game code for Spearmint.
 * [Q2RTXPerimental](https://github.com/PolyhedronStudio/Q2RTXPerimental) ⭐ 18 | 🐛 2 | 🌐 C++ | 📅 2026-08-29 - My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II
 * [realice](https://github.com/FWGS/realice) ⭐ 14 | 🐛 1 | 🌐 C | 📅 2026-02-15 - Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.
-* [FnQ3](https://github.com/themuffinator/FnQ3) ⭐ 13 | 🐛 1 | 🌐 C | 📅 2026-08-28 - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+* [FnQ3](https://github.com/themuffinator/FnQ3) ⭐ 13 | 🐛 2 | 🌐 C | 📅 2026-08-28 - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
 * [FnQL](https://github.com/themuffinator/FnQL) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2026-08-28 - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
 * [lilium-arena](https://github.com/clover-moe/lilium-arena) ⭐ 8 | 🐛 16 | 🌐 C | 📅 2026-06-15 - Lilium Arena - Compatible with Quake 3 Arena 1.32.
-* [openQ4-game](https://github.com/themuffinator/openQ4-game) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2026-09-03 - openQ4 game libraries
+* [openQ4-game](https://github.com/themuffinator/openQ4-game) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - openQ4 game libraries
 * [qk1](https://github.com/qwx9/qk1) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-27 - quake 1 and quakeworld port for plan9.
 * [DOOM64EXUltra](https://github.com/StevenSYS/DOOM64EXUltra) ⚠️ Archived - A fork of DOOM 64 EX+ with new stuff and fixes
 * [quake3-rust-edition](https://github.com/Oli97430/quake3-rust-edition) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-07-11 - id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.
-* [REBLIVION](https://github.com/themuffinator/REBLIVION) ⭐ 5 | 🐛 4 | 🌐 C | 📅 2026-09-07 - Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.
+* [REBLIVION](https://github.com/themuffinator/REBLIVION) ⭐ 5 | 🐛 4 | 🌐 C | 📅 2026-09-08 - Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.
 * [heavymetal](https://github.com/sp00nznet/heavymetal) ⭐ 4 | 🐛 6 | 🌐 C | 📅 2026-09-01 - A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64.
 * [lilium-salvation](https://github.com/clover-moe/lilium-salvation) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-05-20 - An engine replacement for [Dark Salvation](https://mangledeyestudios.itch.io/dark-salvation)
 * [Oblivion-Reconstructed](https://github.com/themuffinator/Oblivion-Reconstructed) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-03-25 - Reverse-engineered Oblivion Extension Pack source code for original Quake II.
@@ -183,16 +183,16 @@ If you are looking for not only remakes have a look at:
 
 ## Online
 
-* [RuneLite](https://github.com/runelite/runelite) ⭐ 5,453 | 🐛 2,460 | 🌐 Java | 📅 2026-09-03 - Open source Old School RuneScape (OSRS) client. :flower\_playing\_cards:
-* [Space Station 14](https://github.com/space-wizards/space-station-14) ⭐ 3,778 | 🐛 4,274 | 🌐 C# | 📅 2026-09-07 - Space Station 14 is a revived attempt at a Space Station 13 remake.
-* [FreeSO](https://github.com/riperiperi/FreeSO) ⭐ 974 | 🐛 80 | 🌐 C# | 📅 2026-09-06 - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower\_playing\_cards:
+* [RuneLite](https://github.com/runelite/runelite) ⭐ 5,454 | 🐛 2,462 | 🌐 Java | 📅 2026-09-03 - Open source Old School RuneScape (OSRS) client. :flower\_playing\_cards:
+* [Space Station 14](https://github.com/space-wizards/space-station-14) ⭐ 3,780 | 🐛 4,283 | 🌐 C# | 📅 2026-09-08 - Space Station 14 is a revived attempt at a Space Station 13 remake.
+* [FreeSO](https://github.com/riperiperi/FreeSO) ⭐ 974 | 🐛 80 | 🌐 C# | 📅 2026-09-08 - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower\_playing\_cards:
 * [Meridian 59](https://github.com/Meridian59/Meridian59) ⭐ 513 | 🐛 79 | 🌐 C++ | 📅 2026-08-22 - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
-* [Ryzom Core](https://github.com/ryzom/ryzomcore) ⭐ 458 | 🐛 103 | 🌐 C++ | 📅 2026-09-07 - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
+* [Ryzom Core](https://github.com/ryzom/ryzomcore) ⭐ 458 | 🐛 103 | 🌐 C++ | 📅 2026-09-08 - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 * [RSC-C](https://github.com/2003scape/rsc-c) ⭐ 127 | 🐛 51 | 🌐 C | 📅 2026-07-16 - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower\_playing\_cards:
 * [2006rebotted](https://github.com/dginovker/2006rebotted) ⭐ 36 | 🐛 3 | 🌐 Java | 📅 2020-12-31 - A 2006 RuneScape 2 Emulation Server. :flower\_playing\_cards:
 * [Netrek](https://github.com/quozl/netrek-client-cow) ⭐ 25 | 🐛 6 | 🌐 C | 📅 2026-06-10 - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
 * [starcup](https://github.com/teamstarcup/starcup) ⭐ 6 | 🐛 13 | 🌐 C# | 📅 2026-09-06 - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
-* [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07 Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
+* [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-08 Single-player 3D web remake of the 1985 classic The Heart of Africa: real \~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 * [2004scape](https://2004scape.org) - A free & open-source remake of 2004 era RuneScape 2. :flower\_playing\_cards:
 * [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower\_playing\_cards:
 * [ACEmulator](https://emulator.ac) - A custom, completely from-scratch open source server emulator for Asheron’s Call built on C#. :flower\_playing\_cards:
@@ -202,29 +202,29 @@ If you are looking for not only remakes have a look at:
 
 ## RPG
 
-* [DevilutionX](https://github.com/diasurgical/devilutionX) ⭐ 9,720 | 🐛 480 | 🌐 C++ | 📅 2026-09-04 - Diablo build for modern operating systems.
+* [DevilutionX](https://github.com/diasurgical/devilutionX) ⭐ 9,722 | 🐛 479 | 🌐 C++ | 📅 2026-09-04 - Diablo build for modern operating systems.
 * [Devilution](https://github.com/diasurgical/devilution) ⭐ 8,996 | 🐛 42 | 🌐 C++ | 📅 2025-09-15 - Reconstructed form of Diablo's original source code.
-* [OpenMW](https://github.com/OpenMW/openmw) ⭐ 6,552 | 🐛 0 | 🌐 C++ | 📅 2026-09-07 - Reimplementation of the Morrowind game engine.
-* [Zelda3](https://github.com/snesrev/zelda3) ⭐ 4,750 | 🐛 88 | 🌐 C | 📅 2023-12-27 - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
+* [OpenMW](https://github.com/OpenMW/openmw) ⭐ 6,553 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Reimplementation of the Morrowind game engine.
+* [Zelda3](https://github.com/snesrev/zelda3) ⭐ 4,752 | 🐛 88 | 🌐 C | 📅 2023-12-27 - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 * [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) ⭐ 3,489 | 🐛 78 | 🌐 C# | 📅 2026-08-24 - Recreation of Daggerfall in the Unity engine.
 * [Freeablo](https://github.com/wheybags/freeablo) ⭐ 2,170 | 🐛 63 | 🌐 C++ | 📅 2023-04-13 - Open-source implementation of the Diablo engine.
-* [OpenGothic](https://github.com/Try/OpenGothic) ⭐ 1,599 | 🐛 131 | 🌐 C++ | 📅 2026-09-06 - Reimplementation of Gothic 2: Night of the Raven.
-* [OpenTESArena](https://github.com/afritz1/OpenTESArena) ⭐ 1,412 | 🐛 20 | 🌐 C++ | 📅 2026-08-13 - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
-* [GemRB](https://github.com/gemrb/gemrb) ⭐ 1,246 | 🐛 191 | 🌐 C++ | 📅 2026-09-01 - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+* [OpenGothic](https://github.com/Try/OpenGothic) ⭐ 1,599 | 🐛 132 | 🌐 C++ | 📅 2026-09-07 - Reimplementation of Gothic 2: Night of the Raven.
+* [OpenTESArena](https://github.com/afritz1/OpenTESArena) ⭐ 1,412 | 🐛 21 | 🌐 C++ | 📅 2026-08-13 - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
+* [GemRB](https://github.com/gemrb/gemrb) ⭐ 1,246 | 🐛 191 | 🌐 C++ | 📅 2026-09-07 - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
 * [xoreos](https://github.com/xoreos/xoreos) ⭐ 1,170 | 🐛 37 | 🌐 C++ | 📅 2026-09-04 - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 * [Riiablo](https://github.com/collinsmith/riiablo) ⭐ 1,096 | 🐛 79 | 🌐 Java | 📅 2025-01-13 - Diablo II remade using Java and LibGDX.
 * [Arx Libertatis](https://github.com/arx/ArxLibertatis) ⭐ 1,088 | 🐛 70 | 🌐 C++ | 📅 2024-08-22 - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Shockolate](https://github.com/Interrupt/systemshock) ⭐ 901 | 🐛 70 | 🌐 C | 📅 2025-10-01 - Same great System Shock, new great taste.
 * [Falltergeist](https://github.com/falltergeist/falltergeist) ⭐ 891 | 🐛 112 | 🌐 C++ | 📅 2023-01-05 - Crossplatform Fallout 2 game engine writen in C++ and SDL.
-* [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) ⭐ 856 | 🐛 189 | 🌐 C++ | 📅 2026-09-06 - Might and Magic VI-VIII engine remake using original data & code.
+* [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) ⭐ 856 | 🐛 190 | 🌐 C++ | 📅 2026-09-08 - Might and Magic VI-VIII engine remake using original data & code.
 * [Barony](https://github.com/TurningWheel/Barony) ⭐ 711 | 🐛 153 | 🌐 C++ | 📅 2026-02-21 - Open source release of Barony.
-* [Exult](https://github.com/exult/exult) ⭐ 683 | 🐛 80 | 🌐 C++ | 📅 2026-09-04 - Project to recreate Ultima 7 for modern operating systems.
+* [Exult](https://github.com/exult/exult) ⭐ 685 | 🐛 79 | 🌐 C++ | 📅 2026-09-08 - Project to recreate Ultima 7 for modern operating systems.
 * [OpenVIII](https://github.com/MaKiPL/OpenVIII) ⚠️ Archived - Final Fantasy VIII engine implementation in C#.
 * [Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net) ⭐ 536 | 🐛 40 | 🌐 C# | 📅 2026-08-19 - Ambermoon rewrite in C#
 * [REGoth](https://github.com/REGoth-project/REGoth-bs) ⭐ 501 | 🐛 52 | 🌐 C++ | 📅 2020-05-29 - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
 * [sfall](https://github.com/phobos2077/sfall) ⭐ 435 | 🐛 19 | 🌐 C++ | 📅 2026-09-05 - A set of engine modifications for the classic game Fallout 2.
-* [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) ⭐ 321 | 🐛 32 | 🌐 C# | 📅 2026-09-05 - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
-* [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) ⭐ 284 | 🐛 7 | 🌐 C | 📅 2024-04-21 - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
+* [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) ⭐ 321 | 🐛 15 | 🌐 C# | 📅 2026-09-07 - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
+* [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) ⭐ 285 | 🐛 7 | 🌐 C | 📅 2024-04-21 - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 * [DGEngine](https://github.com/dgengin/DGEngine) ⭐ 270 | 🐛 12 | 🌐 C++ | 📅 2025-07-21 - Implementation of the Diablo game engine.
 * [FreeFT](https://github.com/nadult/FreeFT) ⭐ 191 | 🐛 1 | 🌐 C++ | 📅 2025-11-29 - Real-time, isometric action game engine inspired by Fallout Tactics.
 * [UAlbion](https://github.com/csinkers/ualbion) ⭐ 166 | 🐛 45 | 🌐 C# | 📅 2026-05-10 - Remake of 1995 Albion.
@@ -236,19 +236,20 @@ If you are looking for not only remakes have a look at:
 * [castarook](https://github.com/SamoraCletus/castarook) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07 - Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles blending strategy and role-playing elements in a living game world.
 * [Arianne RPG](https://sourceforge.net/projects/arianne/) - Arianne is an engine to develop multiplayer online games like Stendhal
 * [ChaosEsqueAnthology](https://sourceforge.net/projects/chaosesqueanthology/) - A free 3d game for PC that does not limit the player. Fight,Build,Gain
+* [jminequest](https://codeberg.org/glowiak/jminequest)) - A Java reimplementation of the 2014 mobile game Mine Quest by Tapps Tecnologia da Informacao Ltda
 * [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 
 ## Platformer
 
 * [VVVVV](https://github.com/TerryCavanagh/vvvvvv) ⭐ 8,025 | 🐛 50 | 🌐 ActionScript | 📅 2026-08-24 - The source code to VVVVVV.
-* [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,029 | 🐛 237 | 🌐 C++ | 📅 2026-06-29 - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
-* [Jak Project](https://github.com/open-goal/jak-project) ⭐ 3,503 | 🐛 187 | 🌐 Common Lisp | 📅 2026-09-05 - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
+* [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,030 | 🐛 237 | 🌐 C++ | 📅 2026-06-29 - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
+* [Jak Project](https://github.com/open-goal/jak-project) ⭐ 3,504 | 🐛 188 | 🌐 Common Lisp | 📅 2026-09-08 - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
 * [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) ⭐ 1,962 | 🐛 56 | 🌐 C | 📅 2026-08-22 - PC Port of Banjo-Kazooie made using N64: Recompiled.
-* [SDLPoP](https://github.com/NagyD/SDLPoP) ⭐ 1,279 | 🐛 80 | 🌐 C | 📅 2025-12-24 - Port of Prince of Persia, based on the disassembly of the DOS version.
-* [Ghostship](https://github.com/HarbourMasters/Ghostship) ⭐ 699 | 🐛 51 | 🌐 C | 📅 2026-09-07 - Super Mario 64 reimplementation for PC.
-* [Jazz² Resurrection](https://github.com/deathkiller/jazz2) ⭐ 570 | 🐛 0 | 📅 2026-08-22 - Reimplementation of Jazz Jackrabbit 2.
+* [SDLPoP](https://github.com/NagyD/SDLPoP) ⭐ 1,281 | 🐛 80 | 🌐 C | 📅 2025-12-24 - Port of Prince of Persia, based on the disassembly of the DOS version.
+* [Ghostship](https://github.com/HarbourMasters/Ghostship) ⭐ 709 | 🐛 63 | 🌐 C | 📅 2026-09-07 - Super Mario 64 reimplementation for PC.
+* [Jazz² Resurrection](https://github.com/deathkiller/jazz2) ⭐ 569 | 🐛 0 | 📅 2026-08-22 - Reimplementation of Jazz Jackrabbit 2.
 * [NXEngine-evo](https://github.com/nxengine/nxengine-evo) ⭐ 546 | 🐛 47 | 🌐 C | 📅 2026-03-04 - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
-* [Alive Reversing](https://github.com/AliveTeam/alive_reversing) ⭐ 433 | 🐛 227 | 🌐 C++ | 📅 2026-09-06 - Reimplementation of Oddworld: Abe's Exoddus.
+* [Alive Reversing](https://github.com/AliveTeam/alive_reversing) ⭐ 434 | 🐛 227 | 🌐 C++ | 📅 2026-09-06 - Reimplementation of Oddworld: Abe's Exoddus.
 * [Omnispeak](https://github.com/sulix/omnispeak) ⭐ 318 | 🐛 14 | 🌐 C | 📅 2026-07-12 - Reimplementation of Commander Keen in Goodbye Galaxy.
 * [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) ⭐ 223 | 🐛 188 | 🌐 C++ | 📅 2026-08-10 - Adaptation of Secret Mario Chronicles. :flower\_playing\_cards:
 * [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) ⭐ 85 | 🐛 7 | 🌐 Java | 📅 2026-08-13 - Java remake of Lionheart Amiga game.
@@ -260,9 +261,9 @@ If you are looking for not only remakes have a look at:
 ## Racing
 
 * [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) ⭐ 2,960 | 🐛 71 | 🌐 C | 📅 2026-08-09 - This is a re-implementation of the 1995 PSX game wipEout. :flower\_playing\_cards:
-* [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,334 | 🐛 117 | 🌐 C | 📅 2026-08-16 - Reimplementation of Mario Kart 64 for PC.
+* [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,335 | 🐛 117 | 🌐 C | 📅 2026-08-16 - Reimplementation of Mario Kart 64 for PC.
 * [dethrace](https://github.com/dethrace-labs/dethrace) ⭐ 1,188 | 🐛 92 | 🌐 C | 📅 2026-09-07 - Reverse engineering the 1997 game "Carmageddon"
-* [OpenNFS](https://github.com/OpenNFS/OpenNFS) ⭐ 829 | 🐛 4 | 🌐 C++ | 📅 2026-06-21 - Attempt to recreate the classic Need for Speed Games (1-6).
+* [OpenNFS](https://github.com/OpenNFS/OpenNFS) ⭐ 830 | 🐛 4 | 🌐 C++ | 📅 2026-06-21 - Attempt to recreate the classic Need for Speed Games (1-6).
 * [Vangers](https://github.com/KranX/Vangers) ⭐ 737 | 🐛 168 | 🌐 C++ | 📅 2026-08-17 - Racing/RPG hybrid made open-source by its creators, written in C++.
 * [Vange-rs](https://github.com/kvark/vange-rs) ⭐ 486 | 🐛 43 | 🌐 Rust | 📅 2026-09-04 - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 * [Reburn 3](https://github.com/reburndev/reburn3) ⭐ 176 | 🐛 1 | 🌐 C++ | 📅 2024-06-17 - A work-in-progress open source reimplementation of Burnout 3: Takedown.
@@ -278,10 +279,10 @@ If you are looking for not only remakes have a look at:
 
 ## Simulator
 
-* [Endless Sky](https://github.com/endless-sky/endless-sky) ⭐ 7,540 | 🐛 919 | 🌐 C++ | 📅 2026-09-06 - Space exploration, trading, and combat game.
-* [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) ⭐ 636 | 🐛 104 | 🌐 C++ | 📅 2026-08-31 - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+* [Endless Sky](https://github.com/endless-sky/endless-sky) ⭐ 7,546 | 🐛 919 | 🌐 C++ | 📅 2026-09-07 - Space exploration, trading, and combat game.
+* [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) ⭐ 637 | 🐛 104 | 🌐 C++ | 📅 2026-08-31 - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 * [Librelancer](https://github.com/Librelancer/Librelancer) ⭐ 606 | 🐛 76 | 🌐 C# | 📅 2026-09-07 - Reimplementation of the 2003 space game Freelancer.
-* [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) ⭐ 485 | 🐛 417 | 🌐 C++ | 📅 2026-09-06 - FreeSpace2 Source Code Project.
+* [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) ⭐ 485 | 🐛 419 | 🌐 C++ | 📅 2026-09-07 - FreeSpace2 Source Code Project.
 * [ForsakenX](https://github.com/ForsakenX/forsaken) ⭐ 181 | 🐛 55 | 🌐 C | 📅 2025-10-01 - Forsaken game engine.
 * [dxx-redux](https://github.com/dxx-redux/dxx-redux) ⭐ 72 | 🐛 31 | 🌐 C | 📅 2026-07-18 - Descent 1&2 source port based on DXX-Retro.
 * [ForsakenW](https://github.com/ForsakenW/forsaken) ⭐ 10 | 🐛 4 | 🌐 C | 📅 2015-06-25 - The Forsaken source code.
@@ -296,96 +297,97 @@ If you are looking for not only remakes have a look at:
 
 ## Strategy
 
-* [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 28,862 | 🐛 12 | 🌐 Java | 📅 2026-09-06 - The automation tower defense RTS written in Java
-* [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04 - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
-* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,194 | 🐛 1,483 | 🌐 C++ | 📅 2026-09-06 - Recreation of RollerCoaster Tycoon 2.
-* [openage](https://github.com/SFTtech/openage) ⭐ 14,420 | 🐛 214 | 🌐 Python | 📅 2026-07-04 - Clone of the Age of Empires II engine.
-* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,232 | 🐛 150 | 🌐 Kotlin | 📅 2026-09-07 - Open-source Android/Desktop remake of Civ V.
-* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,238 | 🐛 406 | 🌐 C++ | 📅 2026-09-07 - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
-* [VCMI](https://github.com/vcmi/vcmi) ⭐ 5,835 | 🐛 689 | 🌐 C++ | 📅 2026-09-06 - Engine for Heroes of Might and Magic III.
-* [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) ⭐ 5,109 | 🐛 9 | 🌐 JavaScript | 📅 2020-01-27 - Remake of SimCity 2000 by Maxis.
-* [CorsixTH](https://github.com/CorsixTH/CorsixTH) ⭐ 4,550 | 🐛 240 | 🌐 Lua | 📅 2026-09-06 - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
-* [Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) ⭐ 4,200 | 🐛 760 | 🌐 Lua | 📅 2026-09-07 - Open source RTS game built on top of the Recoil RTS Engine
-* [Warzone 2100](https://github.com/Warzone2100/warzone2100) ⭐ 3,940 | 🐛 609 | 🌐 C++ | 📅 2026-09-06 - Free and open-source real time strategy game. :flower\_playing\_cards:
-* [fheroes2](https://github.com/ihhub/fheroes2) ⭐ 3,458 | 🐛 429 | 🌐 C++ | 📅 2026-09-06 - Free implementation of Heroes of Might and Magic II game engine.
-* [Julius](https://github.com/bvschaik/julius) ⭐ 3,366 | 🐛 11 | 🌐 C | 📅 2026-09-05 - Reimplementation of Caesar III.
-* [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) ⭐ 2,760 | 🐛 3 | 🌐 C | 📅 2026-08-28 - An OpenGL RTS game engine written in C based on Everglory
-* [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) ⭐ 2,620 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-07 - Online browser-based RTS game
+* [Mindustry](https://github.com/Anuken/Mindustry) ⭐ 28,880 | 🐛 8 | 🌐 Java | 📅 2026-09-08 - The automation tower defense RTS written in Java
+* [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04 - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
+* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,197 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-08 - Recreation of RollerCoaster Tycoon 2.
+* [openage](https://github.com/SFTtech/openage) ⭐ 14,424 | 🐛 215 | 🌐 Python | 📅 2026-07-04 - Clone of the Age of Empires II engine.
+* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,242 | 🐛 142 | 🌐 Kotlin | 📅 2026-09-08 - Open-source Android/Desktop remake of Civ V.
+* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,243 | 🐛 407 | 🌐 C++ | 📅 2026-09-07 - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower\_playing\_cards:
+* [VCMI](https://github.com/vcmi/vcmi) ⭐ 5,840 | 🐛 683 | 🌐 C++ | 📅 2026-09-08 - Engine for Heroes of Might and Magic III.
+* [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) ⭐ 5,110 | 🐛 9 | 🌐 JavaScript | 📅 2020-01-27 - Remake of SimCity 2000 by Maxis.
+* [CorsixTH](https://github.com/CorsixTH/CorsixTH) ⭐ 4,552 | 🐛 242 | 🌐 Lua | 📅 2026-09-07 - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
+* [Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) ⭐ 4,200 | 🐛 762 | 🌐 Lua | 📅 2026-09-08 - Open source RTS game built on top of the Recoil RTS Engine
+* [Warzone 2100](https://github.com/Warzone2100/warzone2100) ⭐ 3,940 | 🐛 610 | 🌐 C++ | 📅 2026-09-08 - Free and open-source real time strategy game. :flower\_playing\_cards:
+* [fheroes2](https://github.com/ihhub/fheroes2) ⭐ 3,458 | 🐛 430 | 🌐 C++ | 📅 2026-09-07 - Free implementation of Heroes of Might and Magic II game engine.
+* [Julius](https://github.com/bvschaik/julius) ⭐ 3,368 | 🐛 11 | 🌐 C | 📅 2026-09-05 - Reimplementation of Caesar III.
+* [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) ⭐ 2,761 | 🐛 3 | 🌐 C | 📅 2026-08-28 - An OpenGL RTS game engine written in C based on Everglory
+* [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) ⭐ 2,627 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-08 - Online browser-based RTS game
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) ⭐ 2,214 | 🐛 84 | 🌐 C++ | 📅 2026-06-05 - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
-* [OpenLoco](https://github.com/OpenLoco/OpenLoco) ⭐ 1,899 | 🐛 452 | 🌐 C++ | 📅 2026-09-07 - Reimplementation of Chris Sawyer's Locomotion.
-* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,873 | 🐛 469 | 🌐 TypeScript | 📅 2026-08-11 - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.
-* [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) ⭐ 1,687 | 🐛 39 | 🌐 C | 📅 2026-09-01 - Recreation of the popular game Dune II.
-* [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) ⭐ 1,633 | 🐛 347 | 🌐 C# | 📅 2026-03-30 - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
-* [freeciv](https://github.com/freeciv/freeciv) ⭐ 1,588 | 🐛 11 | 🌐 C | 📅 2026-09-07 - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
-* [triplea](https://github.com/triplea-game/triplea) ⭐ 1,574 | 🐛 237 | 🌐 Java | 📅 2026-09-07 - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
+* [OpenLoco](https://github.com/OpenLoco/OpenLoco) ⭐ 1,900 | 🐛 453 | 🌐 C++ | 📅 2026-09-08 - Reimplementation of Chris Sawyer's Locomotion.
+* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,872 | 🐛 470 | 🌐 TypeScript | 📅 2026-08-11 - Spiritual successor to Heroes of Might and Magic III focusing on combat; matched based eSport.
+* [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) ⭐ 1,688 | 🐛 39 | 🌐 C | 📅 2026-09-01 - Recreation of the popular game Dune II.
+* [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) ⭐ 1,634 | 🐛 347 | 🌐 C# | 📅 2026-03-30 - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
+* [freeciv](https://github.com/freeciv/freeciv) ⭐ 1,590 | 🐛 11 | 🌐 C | 📅 2026-09-08 - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+* [triplea](https://github.com/triplea-game/triplea) ⭐ 1,574 | 🐛 228 | 🌐 Java | 📅 2026-09-08 - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 * [openblack](https://github.com/openblack/openblack) ⭐ 1,556 | 🐛 120 | 🌐 C++ | 📅 2026-08-05 - Reimplementation of Black & White.
-* [GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) ⭐ 1,354 | 🐛 802 | 🌐 C++ | 📅 2026-09-06 - Command and Conquer: Generals - Zero Hour
+* [GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) ⭐ 1,357 | 🐛 806 | 🌐 C++ | 📅 2026-09-08 - Command and Conquer: Generals - Zero Hour
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) ⭐ 1,123 | 🐛 676 | 🌐 C++ | 📅 2026-07-17 - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
-* [OpenHV](https://github.com/OpenHV/OpenHV) ⭐ 1,064 | 🐛 64 | 🌐 C# | 📅 2026-08-25 - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
+* [OpenHV](https://github.com/OpenHV/OpenHV) ⭐ 1,066 | 🐛 67 | 🌐 C# | 📅 2026-08-25 - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 * [KeeperRL](https://github.com/miki151/keeperrl) ⭐ 1,001 | 🐛 719 | 🌐 C++ | 📅 2025-10-27 - Roguelike dungeon builder inspired by Dwarf Fortress.
-* [KeeperFX](https://github.com/dkfans/keeperfx) ⭐ 997 | 🐛 404 | 🌐 C | 📅 2026-09-06 - Open source remake and Fan Expansion of Dungeon Keeper.
-* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) ⭐ 827 | 🐛 1,268 | 🌐 Lua | 📅 2026-09-07 - Open source RTS game running on the Spring/Recoil engine
+* [KeeperFX](https://github.com/dkfans/keeperfx) ⭐ 997 | 🐛 408 | 🌐 C | 📅 2026-09-07 - Open source remake and Fan Expansion of Dungeon Keeper.
+* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) ⭐ 828 | 🐛 1,266 | 🌐 Lua | 📅 2026-09-08 - Open source RTS game running on the Spring/Recoil engine
 * [OpenCiv3](https://github.com/C7-Game/OpenCiv3) ⭐ 650 | 🐛 100 | 🌐 C# | 📅 2026-09-03 - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#.
-* [GLSMAC](https://github.com/afwbkbc/glsmac) ⭐ 628 | 🐛 11 | 🌐 C++ | 📅 2026-09-02 - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
+* [GLSMAC](https://github.com/afwbkbc/glsmac) ⭐ 629 | 🐛 11 | 🌐 C++ | 📅 2026-09-02 - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 * [Open Fodder](https://github.com/OpenFodder/openfodder) ⭐ 603 | 🐛 11 | 🌐 C++ | 📅 2026-08-16 - Open-source implementation of Cannon Fodder.
-* [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) ⭐ 589 | 🐛 278 | 🌐 C++ | 📅 2026-09-07 - Rebuild of the X-COM: Apocalypse engine.
-* [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) ⭐ 586 | 🐛 287 | 🌐 C++ | 📅 2026-09-05 - Settlers II remake written in C++.
-* [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) ⭐ 532 | 🐛 277 | 🌐 C++ | 📅 2026-09-07 - Makes Jagged Alliance 2 available on a wide range of platforms.
-* [OpenKeeper](https://github.com/tonihele/OpenKeeper) ⭐ 496 | 🐛 86 | 🌐 Java | 📅 2026-09-05 - Dungeon Keeper II remake in Java.
+* [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) ⭐ 589 | 🐛 280 | 🌐 C++ | 📅 2026-09-07 - Rebuild of the X-COM: Apocalypse engine.
+* [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) ⭐ 586 | 🐛 284 | 🌐 C++ | 📅 2026-09-08 - Settlers II remake written in C++.
+* [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) ⭐ 533 | 🐛 277 | 🌐 C++ | 📅 2026-09-07 - Makes Jagged Alliance 2 available on a wide range of platforms.
+* [OpenKeeper](https://github.com/tonihele/OpenKeeper) ⭐ 497 | 🐛 86 | 🌐 Java | 📅 2026-09-05 - Dungeon Keeper II remake in Java.
 * [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) ⭐ 462 | 🐛 332 | 🌐 C++ | 📅 2026-07-16 - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
-* [Wargus](https://github.com/Wargus/wargus) ⭐ 431 | 🐛 62 | 🌐 C | 📅 2026-09-05 -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
+* [Wargus](https://github.com/Wargus/wargus) ⭐ 432 | 🐛 62 | 🌐 C | 📅 2026-09-05 -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
 * [MegaGlest](https://github.com/MegaGlest/megaglest-source) ⭐ 417 | 🐛 67 | 🌐 C++ | 📅 2026-06-29 - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 * [KaM Remake](https://github.com/Kromster80/kam_remake) ⚠️ Archived - RTS game remake of Knights and Merchants written in Delphi from scratch.
 * [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) ⭐ 364 | 🐛 399 | 🌐 C++ | 📅 2026-08-30 - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
-* [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) ⭐ 338 | 🐛 22 | 🌐 C# | 📅 2025-07-26 - Remake of C\&C Red Alert 2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
+* [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) ⭐ 338 | 🐛 22 | 🌐 C# | 📅 2025-07-26 - Remake of C\&C Red Alert 2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
 * [Sourcehold](https://github.com/sourcehold/Sourcehold) ⭐ 280 | 🐛 30 | 🌐 C++ | 📅 2024-07-08 - Implementation of Stronghold by Firefly Studios.
 * [CivOne](https://github.com/SWY1985/CivOne) ⭐ 262 | 🐛 55 | 🌐 C# | 📅 2021-01-02 - Implementation of Sid Meier's Civilization.
-* [Syndicate Wars](https://github.com/swfans/syndwarsfx) ⭐ 244 | 🐛 98 | 🌐 C | 📅 2026-09-07 - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.
+* [Syndicate Wars](https://github.com/swfans/syndwarsfx) ⭐ 244 | 🐛 98 | 🌐 C | 📅 2026-09-08 - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.
 * [WarKingdoms](https://github.com/skyteks/WarKingdoms) ⭐ 242 | 🐛 0 | 🌐 C# | 📅 2023-12-08 - Unity RTS Prototype (Warcraft 3 Style)
-* [Race into Space](https://github.com/raceintospace/raceintospace) ⭐ 228 | 🐛 141 | 🌐 C++ | 📅 2026-09-06 - Version of Interplay's Buzz Aldrin's Race into Space.
+* [Race into Space](https://github.com/raceintospace/raceintospace) ⭐ 229 | 🐛 142 | 🌐 C++ | 📅 2026-09-08 - Version of Interplay's Buzz Aldrin's Race into Space.
 * [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) ⚠️ Archived - Community-driven effort to continue the development of Cortex Command.
 * [Open Panzer](https://github.com/nicupavel/openpanzer) ⭐ 184 | 🐛 25 | 🌐 JavaScript | 📅 2021-02-27 - HTML5 Panzer General 2. :flower\_playing\_cards:
 * [Open-Realms-of-Stars](https://github.com/tuomount/Open-Realms-of-Stars) ⭐ 178 | 🐛 10 | 🌐 Java | 📅 2026-09-06 - 4X Strategy game.
 * [kiomet](https://github.com/SoftbearStudios/kiomet) ⭐ 175 | 🐛 6 | 🌐 Rust | 📅 2025-09-10 - Kiomet.com real-time strategy game (repository commits may lag behind game updates)
-* [Pillage-First-Ask-Questions-Later](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) ⭐ 175 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-07 - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
+* [Pillage-First-Ask-Questions-Later](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) ⭐ 175 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
 * [freeserf.net](https://github.com/Pyrdacor/freeserf.net) ⭐ 169 | 🐛 41 | 🌐 C# | 📅 2026-06-16 - Settlers 1 clone written in C#
 * [rise-of-legions](https://github.com/BrokenGamesUG/rise-of-legions) ⭐ 163 | 🐛 3 | 🌐 Pascal | 📅 2022-01-19 - Rise of Legions is a hybrid of MOBA, tower defense and deckbuilding - with fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck and crush your enemies.
-* [OpenTPW](https://github.com/OpenTPW/OpenTPW) ⭐ 157 | 🐛 3 | 🌐 C# | 📅 2025-04-17 - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
+* [OpenTPW](https://github.com/OpenTPW/OpenTPW) ⭐ 157 | 🐛 3 | 🌐 C# | 📅 2026-09-07 - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
 * [mc2](https://github.com/alariq/mc2) ⭐ 154 | 🐛 8 | 🌐 C++ | 📅 2026-08-30 - Mech Commander 2 open source engine + OpenGL Linux port.
 * [war1](https://github.com/acoto87/war1) ⭐ 152 | 🐛 0 | 🌐 C | 📅 2026-08-09 - A remake of Warcraft: Orcs & Humans written in C
 * [Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS) ⭐ 151 | 🐛 0 | 🌐 Lua | 📅 2022-03-07 - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine.
 * [thinker](https://github.com/induktio/thinker) ⭐ 149 | 🐛 12 | 🌐 C++ | 📅 2026-08-31 - Improved game engine features for SMACX.
 * [OPHD](https://github.com/OutpostUniverse/OPHD) ⭐ 143 | 🐛 93 | 🌐 C++ | 📅 2026-08-10 - OutpostHD - Open source remake of Sierra On-Line's Outpost.
 * [OutpostHD](https://github.com/OutpostUniverse/OPHD) ⭐ 143 | 🐛 93 | 🌐 C++ | 📅 2026-08-10 - Remake of Sierra On-Line's Outpost.
-* [OpenKrush](https://github.com/IceReaper/OpenKrush) ⭐ 125 | 🐛 33 | 🌐 C# | 📅 2025-11-17 - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
-* [OpenSA](https://github.com/Dzierzan/OpenSA) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2023-10-01 - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
+* [OpenKrush](https://github.com/IceReaper/OpenKrush) ⭐ 125 | 🐛 33 | 🌐 C# | 📅 2025-11-17 - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
+* [OpenSA](https://github.com/Dzierzan/OpenSA) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2023-10-01 - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
 * [Flame](https://github.com/DiaLight/Flame) ⭐ 119 | 🐛 127 | 🌐 C++ | 📅 2026-02-28 - Dungeon Keeper II partial recompilation with bug fixes.
 * [Antares](https://github.com/arescentral/antares) ⭐ 111 | 🐛 79 | 🌐 C++ | 📅 2025-08-26 - Remake of Ares, a tactical space combat game.
 * [1oom](https://github.com/1oom-fork/1oom) ⭐ 106 | 🐛 3 | 🌐 C | 📅 2026-09-02 - 1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run.
-* [simutrans](https://github.com/simutrans/simutrans) ⭐ 100 | 🐛 1 | 🌐 C++ | 📅 2026-09-07 - Simutrans is a freeware and open-source transportation simulator. :flower\_playing\_cards:
-* [OpenCrystalCaves](https://github.com/OpenCrystalCaves/OpenCrystalCaves) ⭐ 89 | 🐛 2 | 🌐 C++ | 📅 2026-09-06 - OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves.
-* [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) ⭐ 82 | 🐛 9 | 🌐 C# | 📅 2025-09-27 - Remake of C\&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
-* [OpenE2140](https://github.com/OpenE2140/OpenE2140) ⭐ 71 | 🐛 101 | 🌐 C# | 📅 2026-09-06 - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,345 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
-* [Rotp-Fusion](https://github.com/BrokenRegistry/Rotp-Fusion) ⭐ 68 | 🐛 1 | 🌐 Java | 📅 2026-09-07 - Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.
+* [simutrans](https://github.com/simutrans/simutrans) ⭐ 100 | 🐛 2 | 🌐 C++ | 📅 2026-09-07 - Simutrans is a freeware and open-source transportation simulator. :flower\_playing\_cards:
+* [OpenCrystalCaves](https://github.com/OpenCrystalCaves/OpenCrystalCaves) ⭐ 89 | 🐛 2 | 🌐 C++ | 📅 2026-09-08 - OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves.
+* [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) ⭐ 82 | 🐛 9 | 🌐 C# | 📅 2025-09-27 - Remake of C\&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
+* [OpenE2140](https://github.com/OpenE2140/OpenE2140) ⭐ 71 | 🐛 101 | 🌐 C# | 📅 2026-09-06 - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 17,348 | 🐛 1,589 | 🌐 C# | 📅 2026-09-04
+* [Rotp-Fusion](https://github.com/BrokenRegistry/Rotp-Fusion) ⭐ 68 | 🐛 1 | 🌐 Java | 📅 2026-09-08 - Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.
 * [maxr](https://github.com/maxr-dot-org/maxr) ⭐ 46 | 🐛 16 | 🌐 C++ | 📅 2026-06-22 - A turn based strategy game.
-* [Tribal Trouble](https://github.com/Tribal-Trouble/tribaltrouble) ⭐ 45 | 🐛 43 | 🌐 Java | 📅 2026-09-02 - Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.
-* [machines](https://github.com/WiredForWar/machines) ⭐ 43 | 🐛 34 | 🌐 C++ | 📅 2026-09-05 - Community fork of Machines: Wired for War
+* [Tribal Trouble](https://github.com/Tribal-Trouble/tribaltrouble) ⭐ 45 | 🐛 47 | 🌐 Java | 📅 2026-09-07 - Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.
+* [machines](https://github.com/WiredForWar/machines) ⭐ 43 | 🐛 35 | 🌐 C++ | 📅 2026-09-07 - Community fork of Machines: Wired for War
 * [GLKeeper](https://github.com/codenamecpp/GLKeeper) ⭐ 40 | 🐛 0 | 🌐 C++ | 📅 2026-08-29 - Open Source Dungeon Keeper 2 Reimplementation
 * [Dungeon Keeper Remake](https://github.com/Themperror/Dungeon-Keeper-Remake) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2026-03-29 - A modern remake of Dungeon Keeper
-* [OpenDungeonsPlus](https://github.com/tomluchowski/OpenDungeonsPlus) ⭐ 28 | 🐛 40 | 🌐 C++ | 📅 2026-09-05 - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+* [OpenDungeonsPlus](https://github.com/tomluchowski/OpenDungeonsPlus) ⭐ 28 | 🐛 56 | 🌐 C++ | 📅 2026-09-05 - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
 * [parabellum](https://github.com/andreapavoni/parabellum) ⭐ 25 | 🐛 4 | 🌐 Rust | 📅 2026-06-28 - An attempt to build a #Travian 3.x clone written in #Rust.
 * [EmperorReborn](https://github.com/azmawee/EmperorReborn) ⭐ 21 | 🐛 3 | 🌐 C | 📅 2026-07-12 - Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.
-* [vera20k](https://github.com/Yrvera/vera20k) ⭐ 21 | 🐛 3 | 🌐 Rust | 📅 2026-09-07 - Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles.
+* [vera20k](https://github.com/Yrvera/vera20k) ⭐ 21 | 🐛 3 | 🌐 Rust | 📅 2026-09-08 - Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles.
 * [rebellion2](https://github.com/davidadas/rebellion2) ⭐ 19 | 🐛 4 | 🌐 C# | 📅 2026-09-07 - Remake of the classic Star Wars Rebellion game for PC using Unity
 * [invazion](https://github.com/Nadawoo/invazion) ⭐ 11 | 🐛 66 | 🌐 PHP | 📅 2026-08-04 - Azimutant (formerly named "InvaZion") is a collaborative game inspired by Hordes.fr/Die2Nite.
 * [aeon](https://github.com/lordbasilaiassistant-sudo/aeon) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-17 - Open-source browser god-game & civilization sim where every creature is a real, evolving neural network. Fusion of WorldBox (god sandbox) and Civ (deep progression) - lead a people in Survival or shape the world in Creative. Artificial life, genetic evolution, emergent societies.
 * [Populous The Beginning](https://github.com/TylerTheFox/Populous-The-Beginning-Public) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-08-07 - Open Repository For A Bullfrog Productions Game
 * [Ugh-Guys-](https://github.com/atxgreene/Ugh-Guys-) ⭐ 5 | 🐛 3 | 🌐 HTML | 📅 2026-08-08 - A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world — Three.js + Vite, three factions, fog of war, pathfinding, and an AI opponent. 100% procedural, no external assets.
-* [keeperfx-linux-alpha](https://github.com/ForkedInTime/keeperfx-linux-alpha) ⭐ 4 | 🐛 1 | 🌐 C | 📅 2026-08-31 - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
+* [keeperfx-linux-alpha](https://github.com/ForkedInTime/keeperfx-linux-alpha) ⭐ 4 | 🐛 2 | 🌐 C | 📅 2026-09-08 - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
 * [grenzmark](https://github.com/JobbeDeluxe/grenzmark) ⭐ 3 | 🐛 30 | 🌐 GDScript | 📅 2026-06-24 - Grenzmark is a Godot 4 remake of the Settlers II, Return to the Roots and Widelands
 * [Transarctica-2](https://github.com/SembeiNorimaki/Transarctica-2) ⭐ 3 | 🐛 6 | 🌐 GDScript | 📅 2026-07-15 - Remake of the classic game Transarctica (In development)
 * [grid-wars](https://github.com/loosecannons/grid-wars) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-23 - AI-generated TRON-themed 3D hex strategy game (three.js): single-player vs the MCP + online multiplayer. Untested — use at your own risk.
 * [JS.Hawkoniwa-Island](https://github.com/masaru-star/JS.Hakoniwa-Island) ⭐ 2 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-07 - A homemade island development game inspired by "箱庭諸島". Supports auto-save.
+* [opensage-adk](https://github.com/luann8331/opensage-adk) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-08 - Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks
 * [Ozymandias](https://github.com/dalerank/Ozymandias) ⭐ 2 | 🐛 0 | 📅 2023-10-20 - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 * [PopResourceEditor](https://github.com/Toksisitee/PopResourceEditor) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2025-06-27 - Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.
 * [WazzaP's Boss Generals Mod](https://github.com/ItsWazzaP/wazzaps-boss-generals) ⭐ 2 | 🐛 2 | 📅 2026-03-09 - The official repository of WazzaP's Boss Generals mod for C\&C Generals Zero Hour
@@ -393,8 +395,7 @@ If you are looking for not only remakes have a look at:
 * [DungeonKeeperReborn](https://github.com/joko1977-ui/DungeonKeeperReborn) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-27 - Dungeon Keeper Reborn in TypeScript
 * [galaxyofdrones](https://github.com/0wum0/galaxyofdrones) ⭐ 1 | 🐛 0 | 📅 2021-03-18 - An open source multiplayer space strategy game.
 * [hex-tactics](https://github.com/CesarAugustusGroB/game-hex-tactics) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-16 - PIXI.js + React hex-grid tactical battle sandbox — procedural strategic/tactical worlds, a pure-function battle engine, 5 motion modes, and a defendHeight formation system.
-* [OpenRAG-Skill](https://github.com/Kiki276/OpenRAG-Skill) ⭐ 1 | 🐛 0 | 📅 2026-09-07 - Enable evidence-first retrieval augmented generation within Claude Code using prompt-only input and in-chat source material.
-* [opensage-adk](https://github.com/luann8331/opensage-adk) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-07 - Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks
+* [OpenRAG-Skill](https://github.com/Kiki276/OpenRAG-Skill) ⭐ 1 | 🐛 0 | 📅 2026-09-08 - Enable evidence-first retrieval augmented generation within Claude Code using prompt-only input and in-chat source material.
 * [ufoai](https://github.com/gorsing/ufoai) ⭐ 1 | 🐛 3 | 🌐 C++ | 📅 2026-04-03 - UFO: Alien Invasion
 * [CzechDraughts](https://github.com/david-soliar/CzechDraughts) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-07-30 - Cross-platform Czech Draughts (Česká Dáma) game implemented as a C# console application.
 * [ChaosGame](https://github.com/0Mart00/ChaosGame) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2026-05-18 - chaotic 2D real-time strategy game built from scratch. Command units with random skills, unlock advanced tech trees, and survive the tactical onslaught.
@@ -422,4 +423,4 @@ If you are looking for not only remakes have a look at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
