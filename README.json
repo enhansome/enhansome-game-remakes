@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "michelpereira",
             "repo": "awesome-open-source-games",
-            "stars": 3318,
+            "stars": 3323,
             "topics": [
               "awesome",
               "awesome-list",
@@ -45,7 +45,7 @@
             "open_issues": 196,
             "owner": "Trilarion",
             "repo": "opensourcegames",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "building",
               "collection",
@@ -69,11 +69,11 @@
             "id": 1414599291,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T11:17:43Z",
+            "last_commit": "2026-10-25T11:43:51Z",
             "open_issues": 3,
             "owner": "alexgaoth",
             "repo": "awesome-reverse-engineered",
-            "stars": 679,
+            "stars": 736,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -119,7 +119,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5137,
+            "stars": 5139,
             "topics": [
               "openlara",
               "tombraider"
@@ -143,7 +143,7 @@
             "open_issues": 59,
             "owner": "Supermedo",
             "repo": "bloodborne_pc",
-            "stars": 4564,
+            "stars": 4656,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -164,7 +164,7 @@
             "open_issues": 40,
             "owner": "in0finite",
             "repo": "SanAndreasUnity",
-            "stars": 2667,
+            "stars": 2666,
             "topics": [
               "game-engine",
               "gta",
@@ -235,7 +235,7 @@
                 "open_issues": 0,
                 "owner": "SSunnKing",
                 "repo": "ZeldaWWHDRecompAndroid---ENHANCED",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-10-10T11:15:46.951Z"
@@ -248,11 +248,11 @@
             "id": 1399935626,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-25T09:16:39Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-26T10:19:22Z",
+            "open_issues": 37,
             "owner": "ZeldaWWHDRecomp",
             "repo": "ZeldaWWHDRecomp",
-            "stars": 1044,
+            "stars": 1082,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -269,11 +269,11 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T19:41:16Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-25T23:49:03Z",
+            "open_issues": 163,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 1024,
+            "stars": 1025,
             "topics": [
               "game",
               "game-modding",
@@ -361,8 +361,41 @@
             "open_issues": 36,
             "owner": "999sian",
             "repo": "melee-pc",
-            "stars": 551,
+            "stars": 553,
             "topics": []
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Prime Port",
+          "description": "Recomp of Metroid Prime to PC and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image.",
+            "homepage": "https://github.com/Odrannnn/MetroidPrimePort/releases/latest",
+            "id": 1377235029,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-26T10:46:13Z",
+            "open_issues": 31,
+            "owner": "Odrannnn",
+            "repo": "MetroidPrimePort",
+            "stars": 531,
+            "topics": [
+              "android",
+              "archipelago",
+              "decompilation",
+              "gamecube",
+              "linux",
+              "metroid-prime",
+              "native-port",
+              "randomizer",
+              "sdl3",
+              "webgpu",
+              "windows"
+            ]
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
         },
@@ -409,39 +442,6 @@
         },
         {
           "node_type": "item",
-          "title": "Metroid Prime Port",
-          "description": "Recomp of Metroid Prime to PC and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image.",
-            "homepage": "https://github.com/Odrannnn/MetroidPrimePort/releases/latest",
-            "id": 1377235029,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-25T08:51:30Z",
-            "open_issues": 29,
-            "owner": "Odrannnn",
-            "repo": "MetroidPrimePort",
-            "stars": 518,
-            "topics": [
-              "android",
-              "archipelago",
-              "decompilation",
-              "gamecube",
-              "linux",
-              "metroid-prime",
-              "native-port",
-              "randomizer",
-              "sdl3",
-              "webgpu",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
-        },
-        {
-          "node_type": "item",
           "title": "donut",
           "description": "Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.",
           "children": [],
@@ -472,6 +472,27 @@
         },
         {
           "node_type": "item",
+          "title": "Edge Of Time Recomp",
+          "description": "Recomp of Spider Man: Edge of Time from Xbox 360.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An unofficial PC port of the Xbox 360 version of Spider-Man: Edge of Time created through the process of static recompilation.",
+            "homepage": null,
+            "id": 1288798316,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-08T17:50:33Z",
+            "open_issues": 15,
+            "owner": "goliathret",
+            "repo": "EdgeOfTimeRecomp",
+            "stars": 446,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ico-PC",
           "description": "Recomp of ICO (PS2) to PC.",
           "children": [],
@@ -482,11 +503,11 @@
             "id": 1402542609,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T12:52:03Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-25T20:02:19Z",
+            "open_issues": 23,
             "owner": "nathanialf",
             "repo": "ico-pc",
-            "stars": 438,
+            "stars": 445,
             "topics": [
               "android",
               "decompilation",
@@ -504,27 +525,6 @@
         },
         {
           "node_type": "item",
-          "title": "Edge Of Time Recomp",
-          "description": "Recomp of Spider Man: Edge of Time from Xbox 360.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An unofficial PC port of the Xbox 360 version of Spider-Man: Edge of Time created through the process of static recompilation.",
-            "homepage": null,
-            "id": 1288798316,
-            "language": "C++",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T17:50:33Z",
-            "open_issues": 15,
-            "owner": "goliathret",
-            "repo": "EdgeOfTimeRecomp",
-            "stars": 438,
-            "topics": []
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
-        },
-        {
-          "node_type": "item",
           "title": "Heretic2R",
           "description": "Heretic II (1998, Raven Software) reverse-engineered source port.",
           "children": [],
@@ -536,10 +536,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-08-21T12:42:22Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "m-x-d",
             "repo": "Heretic2R",
-            "stars": 272,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -560,7 +560,7 @@
             "open_issues": 13,
             "owner": "elmasas",
             "repo": "lcs-recomp",
-            "stars": 259,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -581,7 +581,7 @@
             "open_issues": 3,
             "owner": "TekRantGaming",
             "repo": "king-kong-recompiled",
-            "stars": 211,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-10-10T11:15:46.951Z"
@@ -599,10 +599,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-16T13:55:06Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "faligame",
             "repo": "Parasite-Eve-HD-Remaster",
-            "stars": 201,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -653,7 +653,7 @@
             "id": 141676059,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-24T11:38:52Z",
+            "last_commit": "2026-10-26T06:20:00Z",
             "open_issues": 36,
             "owner": "turican0",
             "repo": "remc2",
@@ -691,7 +691,7 @@
             "open_issues": 3,
             "owner": "cookgreen",
             "repo": "OpenMB",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "game",
               "game-engine",
@@ -724,10 +724,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-18T00:30:53Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "TekRantGaming",
             "repo": "earthworm-jim-hd-recompiled",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-10-10T11:15:46.951Z"
@@ -748,7 +748,7 @@
             "open_issues": 1,
             "owner": "official-kryo-to",
             "repo": "ctw-native",
-            "stars": 54,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-10-21T10:21:16.461Z"
@@ -765,11 +765,11 @@
             "id": 1406153922,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T08:56:04Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-25T18:28:00Z",
+            "open_issues": 6,
             "owner": "nautilusbits",
             "repo": "mdk-sdl",
-            "stars": 52,
+            "stars": 54,
             "topics": [
               "android",
               "csharp",
@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "GTTeancum",
             "repo": "SpideyPS1recomp",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -897,7 +897,7 @@
             "open_issues": 1,
             "owner": "mstan",
             "repo": "StarFoxSNESRecomp",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-10-10T11:15:46.951Z"
@@ -1088,11 +1088,11 @@
             "id": 1106809206,
             "language": "C++",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-20T11:30:29Z",
-            "open_issues": 411,
+            "last_commit": "2026-10-26T04:50:53Z",
+            "open_issues": 413,
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 6061,
+            "stars": 6084,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -1141,7 +1141,7 @@
             "id": 1358940,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T01:35:43Z",
+            "last_commit": "2026-10-26T07:34:01Z",
             "open_issues": 44,
             "owner": "scummvm",
             "repo": "scummvm",
@@ -1240,11 +1240,11 @@
             "id": 1405143439,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T06:47:22Z",
+            "last_commit": "2026-10-26T09:23:59Z",
             "open_issues": 0,
             "owner": "kroplabeskidu",
             "repo": "flipendo",
-            "stars": 18,
+            "stars": 21,
             "topics": [
               "cpp",
               "game-engine",
@@ -1293,27 +1293,6 @@
         },
         {
           "node_type": "item",
-          "title": "timeco",
-          "description": "Time Commando Reimplementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Time Commando Reimplementation",
-            "homepage": "https://lbalab.github.io/timeco",
-            "id": 871716602,
-            "language": "C",
-            "license": "GPL-2.0",
-            "last_commit": "2026-05-17T10:31:32Z",
-            "open_issues": 0,
-            "owner": "LBALab",
-            "repo": "timeco",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
           "title": "DetectiveDS",
           "description": "A remake of the original C64 classic The Detective Game for Nintendo DS.",
           "children": [],
@@ -1335,6 +1314,27 @@
         },
         {
           "node_type": "item",
+          "title": "timeco",
+          "description": "Time Commando Reimplementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time Commando Reimplementation",
+            "homepage": "https://lbalab.github.io/timeco",
+            "id": 871716602,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-05-17T10:31:32Z",
+            "open_issues": 0,
+            "owner": "LBALab",
+            "repo": "timeco",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
           "title": "v64tng",
           "description": "Game Engine re-creation of The 7th Guest",
           "children": [],
@@ -1345,7 +1345,7 @@
             "id": 647488562,
             "language": "Assembly",
             "license": "MIT",
-            "last_commit": "2026-10-07T22:29:48Z",
+            "last_commit": "2026-10-26T00:07:39Z",
             "open_issues": 1,
             "owner": "mattseabrook",
             "repo": "v64tng",
@@ -1366,7 +1366,7 @@
             "id": 1412249656,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T09:34:09Z",
+            "last_commit": "2026-10-26T11:18:22Z",
             "open_issues": 87,
             "owner": "michidk",
             "repo": "cyrus",
@@ -1427,7 +1427,7 @@
             "open_issues": 34,
             "owner": "taisei-project",
             "repo": "taisei",
-            "stars": 1659,
+            "stars": 1663,
             "topics": [
               "c",
               "danmaku",
@@ -1488,10 +1488,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T19:44:31Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "opentyrian",
             "repo": "opentyrian",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -1508,8 +1508,8 @@
             "id": 7473802,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:18:13Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-25T22:06:40Z",
+            "open_issues": 112,
             "owner": "omf2097",
             "repo": "openomf",
             "stars": 489,
@@ -1540,7 +1540,7 @@
             "open_issues": 32,
             "owner": "AlisterT",
             "repo": "openjazz",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -1578,11 +1578,11 @@
             "id": 79648232,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-03-31T10:46:38Z",
+            "last_commit": "2026-10-25T19:11:31Z",
             "open_issues": 3,
             "owner": "Javanaise",
             "repo": "mrboom-libretro",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "action-game",
               "bomberman",
@@ -1614,8 +1614,8 @@
             "id": 1136472413,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-25T04:20:37Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-26T11:12:09Z",
+            "open_issues": 11,
             "owner": "banteg",
             "repo": "crimson",
             "stars": 192,
@@ -1678,7 +1678,7 @@
             "open_issues": 3,
             "owner": "ssenegas",
             "repo": "kickoff",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "amiga",
               "atari-st",
@@ -1726,7 +1726,7 @@
             "id": 609275936,
             "language": "F#",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:01:32Z",
+            "last_commit": "2026-10-26T00:57:37Z",
             "open_issues": 52,
             "owner": "ForNeVeR",
             "repo": "O21",
@@ -1796,7 +1796,7 @@
             "open_issues": 0,
             "owner": "Patm4nzzz",
             "repo": "opentyrian-enhanced",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "godot",
               "opentyrian",
@@ -2199,11 +2199,11 @@
             "id": 127814982,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-21T10:13:29Z",
+            "last_commit": "2026-10-25T19:55:39Z",
             "open_issues": 433,
             "owner": "FWGS",
             "repo": "xash3d-fwgs",
-            "stars": 2886,
+            "stars": 2889,
             "topics": [
               "c-language",
               "cross-platform",
@@ -2245,7 +2245,7 @@
             "open_issues": 156,
             "owner": "ioquake",
             "repo": "ioq3",
-            "stars": 2853,
+            "stars": 2856,
             "topics": [
               "fps",
               "fps-engine",
@@ -2277,7 +2277,7 @@
             "open_issues": 337,
             "owner": "chocolate-doom",
             "repo": "chocolate-doom",
-            "stars": 2445,
+            "stars": 2447,
             "topics": [
               "c",
               "doom",
@@ -2293,6 +2293,27 @@
               "sdl2",
               "strife"
             ]
+          },
+          "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "UZDoom",
+          "description": "Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities",
+            "homepage": "http://zdoom.org",
+            "id": 1076246580,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-24T18:40:09Z",
+            "open_issues": 683,
+            "owner": "UZDoom",
+            "repo": "UZDoom",
+            "stars": 2308,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
         },
@@ -2325,27 +2346,6 @@
         },
         {
           "node_type": "item",
-          "title": "UZDoom",
-          "description": "Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower_playing_cards:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities",
-            "homepage": "http://zdoom.org",
-            "id": 1076246580,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-24T18:40:09Z",
-            "open_issues": 683,
-            "owner": "UZDoom",
-            "repo": "UZDoom",
-            "stars": 2305,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
           "title": "dhewm3",
           "description": "A source port of Doom 3.",
           "children": [],
@@ -2360,7 +2360,7 @@
             "open_issues": 123,
             "owner": "dhewm",
             "repo": "dhewm3",
-            "stars": 2189,
+            "stars": 2190,
             "topics": [
               "doom",
               "doom3",
@@ -2387,10 +2387,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T01:21:36Z",
-            "open_issues": 581,
+            "open_issues": 582,
             "owner": "ClassiCube",
             "repo": "ClassiCube",
-            "stars": 2084,
+            "stars": 2083,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2438,11 +2438,11 @@
             "id": 1388653148,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T22:58:22Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-26T11:11:21Z",
+            "open_issues": 50,
             "owner": "OpenCommunityEdition",
             "repo": "OpenCE",
-            "stars": 1805,
+            "stars": 1824,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -2463,7 +2463,7 @@
             "open_issues": 42,
             "owner": "ec-",
             "repo": "Quake3e",
-            "stars": 1551,
+            "stars": 1552,
             "topics": [
               "opengl",
               "quake3",
@@ -2486,10 +2486,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T16:08:38Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "freedoom",
             "repo": "freedoom",
-            "stars": 1368,
+            "stars": 1371,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2548,11 +2548,11 @@
             "id": 242802212,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-24T02:08:14Z",
-            "open_issues": 115,
+            "last_commit": "2026-10-25T15:27:23Z",
+            "open_issues": 116,
             "owner": "TheForceEngine",
             "repo": "TheForceEngine",
-            "stars": 1170,
+            "stars": 1173,
             "topics": [
               "dark-forces",
               "force-engine",
@@ -2575,10 +2575,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-09T22:15:09Z",
-            "open_issues": 268,
+            "open_issues": 269,
             "owner": "andrei-drexler",
             "repo": "ironwail",
-            "stars": 1139,
+            "stars": 1140,
             "topics": [
               "azdo",
               "opengl4",
@@ -2599,11 +2599,11 @@
             "id": 317931014,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T09:54:05Z",
+            "last_commit": "2026-10-26T00:43:13Z",
             "open_issues": 14,
             "owner": "dpjudas",
             "repo": "SurrealEngine",
-            "stars": 1126,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2624,7 +2624,7 @@
             "open_issues": 38,
             "owner": "yquake2",
             "repo": "yquake2",
-            "stars": 1013,
+            "stars": 1014,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2706,7 +2706,7 @@
             "open_issues": 104,
             "owner": "openmoh",
             "repo": "openmohaa",
-            "stars": 849,
+            "stars": 850,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2723,8 +2723,8 @@
             "id": 39701264,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T19:23:36Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-26T01:31:15Z",
+            "open_issues": 77,
             "owner": "Aleph-One-Marathon",
             "repo": "alephone",
             "stars": 818,
@@ -2748,7 +2748,7 @@
             "open_issues": 125,
             "owner": "NBlood",
             "repo": "NBlood",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "blood",
               "build-engine",
@@ -2784,7 +2784,7 @@
             "id": 15365681,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T06:02:47Z",
+            "last_commit": "2026-10-26T07:24:22Z",
             "open_issues": 106,
             "owner": "bradharding",
             "repo": "doomretro",
@@ -2829,7 +2829,7 @@
             "open_issues": 50,
             "owner": "iortcw",
             "repo": "iortcw",
-            "stars": 764,
+            "stars": 766,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2875,10 +2875,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-10-22T03:50:14Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "dsda-org",
             "repo": "dsda-doom",
-            "stars": 513,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2921,10 +2921,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T20:26:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Wemino",
             "repo": "MadnessPatch",
-            "stars": 453,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -2941,8 +2941,8 @@
             "id": 989914,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-24T17:57:50Z",
-            "open_issues": 121,
+            "last_commit": "2026-10-25T19:25:58Z",
+            "open_issues": 122,
             "owner": "QW-Group",
             "repo": "ezquake-source",
             "stars": 421,
@@ -3052,8 +3052,8 @@
             "id": 32036562,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T02:31:44Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-26T11:14:00Z",
+            "open_issues": 249,
             "owner": "odamex",
             "repo": "odamex",
             "stars": 305,
@@ -3081,7 +3081,7 @@
             "open_issues": 25,
             "owner": "jkdansereau",
             "repo": "goldeneye-pc-port",
-            "stars": 290,
+            "stars": 293,
             "topics": [
               "agentic-development",
               "c",
@@ -3209,7 +3209,7 @@
             "open_issues": 17,
             "owner": "Henrique194",
             "repo": "chocolate-quake",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "c",
               "fps",
@@ -3223,6 +3223,35 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Perfect Dark",
+          "description": "Recomp of the N64 game Perfect Dark to PC, with enhancements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Perfect Dark PC port fork: jump, combat roll, melee combos, third person, 80 simulants, spectator camera, screenshots and video recording. Bring your own ROM.",
+            "homepage": null,
+            "id": 1353360049,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-10-21T01:00:14Z",
+            "open_issues": 88,
+            "owner": "DabDavis",
+            "repo": "perfect-dark-dabs-mod",
+            "stars": 198,
+            "topics": [
+              "decompilation",
+              "fps",
+              "game-mod",
+              "n64",
+              "opengl",
+              "perfect-dark",
+              "sdl2"
+            ]
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
         },
         {
           "node_type": "item",
@@ -3250,35 +3279,6 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Perfect Dark",
-          "description": "Recomp of the N64 game Perfect Dark to PC, with enhancements.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Perfect Dark PC port fork: jump, combat roll, melee combos, third person, 80 simulants, spectator camera, screenshots and video recording. Bring your own ROM.",
-            "homepage": null,
-            "id": 1353360049,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-10-21T01:00:14Z",
-            "open_issues": 89,
-            "owner": "DabDavis",
-            "repo": "perfect-dark-dabs-mod",
-            "stars": 196,
-            "topics": [
-              "decompilation",
-              "fps",
-              "game-mod",
-              "n64",
-              "opengl",
-              "perfect-dark",
-              "sdl2"
-            ]
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
         },
         {
           "node_type": "item",
@@ -3313,11 +3313,11 @@
             "id": 1149948783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T05:51:19Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-26T06:00:46Z",
+            "open_issues": 14,
             "owner": "themuffinator",
             "repo": "openQ4",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "action-game",
               "forward-plus",
@@ -3495,7 +3495,7 @@
             "id": 106870754,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-24T18:52:02Z",
+            "last_commit": "2026-10-25T21:02:28Z",
             "open_issues": 14,
             "owner": "Warsow",
             "repo": "qfusion",
@@ -3630,7 +3630,7 @@
             "open_issues": 5,
             "owner": "Styd051",
             "repo": "DOOM64-EX-Plus-Enhanced",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -3668,7 +3668,7 @@
             "id": 622504680,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T18:23:19Z",
+            "last_commit": "2026-10-25T20:08:51Z",
             "open_issues": 0,
             "owner": "Bishop-333",
             "repo": "OmegA-engine",
@@ -3792,7 +3792,7 @@
             "id": 626132352,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-24T19:48:34Z",
+            "last_commit": "2026-10-25T15:55:36Z",
             "open_issues": 0,
             "owner": "Bishop-333",
             "repo": "OmegA-mod",
@@ -3919,7 +3919,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-24T19:11:43Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "themuffinator",
             "repo": "FnQL",
             "stars": 14,
@@ -4029,7 +4029,7 @@
             "id": 1183425749,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T03:13:10Z",
+            "last_commit": "2026-10-26T03:16:54Z",
             "open_issues": 4,
             "owner": "themuffinator",
             "repo": "REBLIVION",
@@ -4133,6 +4133,27 @@
         },
         {
           "node_type": "item",
+          "title": "lilium-salvation",
+          "description": "An engine replacement for Dark Salvation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An engine replacement for Dark Salvation.",
+            "homepage": "https://clover.moe/lilium-salvation",
+            "id": 417721268,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-05-20T15:12:35Z",
+            "open_issues": 0,
+            "owner": "clover-moe",
+            "repo": "lilium-salvation",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
           "title": "CyberMage Modern",
           "description": "Recomp of the DOS game CyberMage.",
           "children": [],
@@ -4151,27 +4172,6 @@
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lilium-salvation",
-          "description": "An engine replacement for Dark Salvation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An engine replacement for Dark Salvation.",
-            "homepage": "https://clover.moe/lilium-salvation",
-            "id": 417721268,
-            "language": "C",
-            "license": "GPL-2.0",
-            "last_commit": "2026-05-20T15:12:35Z",
-            "open_issues": 0,
-            "owner": "clover-moe",
-            "repo": "lilium-salvation",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:31:02.827Z"
         },
         {
           "node_type": "item",
@@ -4236,7 +4236,7 @@
             "id": 658302528,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T07:14:54Z",
+            "last_commit": "2026-10-25T11:25:01Z",
             "open_issues": 10,
             "owner": "justinl1996",
             "repo": "tremulous",
@@ -4331,11 +4331,11 @@
             "id": 57461213,
             "language": "Java",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-24T14:59:16Z",
-            "open_issues": 2489,
+            "last_commit": "2026-10-25T23:45:57Z",
+            "open_issues": 2492,
             "owner": "runelite",
             "repo": "runelite",
-            "stars": 5503,
+            "stars": 5506,
             "topics": [
               "oldschool-runescape",
               "osrs",
@@ -4356,11 +4356,11 @@
             "id": 92001425,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T01:34:15Z",
-            "open_issues": 4136,
+            "last_commit": "2026-10-26T10:13:50Z",
+            "open_issues": 4142,
             "owner": "space-wizards",
             "repo": "space-station-14",
-            "stars": 3883,
+            "stars": 3888,
             "topics": [
               "c-sharp",
               "game",
@@ -4384,7 +4384,7 @@
             "id": 40032948,
             "language": "C#",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-23T01:01:03Z",
+            "last_commit": "2026-10-25T17:06:18Z",
             "open_issues": 80,
             "owner": "riperiperi",
             "repo": "FreeSO",
@@ -4432,7 +4432,7 @@
             "id": 47583743,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T09:32:07Z",
+            "last_commit": "2026-10-26T11:16:35Z",
             "open_issues": 92,
             "owner": "ryzom",
             "repo": "ryzomcore",
@@ -4538,7 +4538,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-24T00:18:14Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "teamstarcup",
             "repo": "starcup",
             "stars": 6,
@@ -4558,7 +4558,7 @@
             "id": 1290905816,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T09:53:31Z",
+            "last_commit": "2026-10-26T11:13:29Z",
             "open_issues": 0,
             "owner": "PatrickVonMassow",
             "repo": "Heart-of-Africa-Remake",
@@ -4597,11 +4597,11 @@
             "id": 143324737,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T09:29:25Z",
+            "last_commit": "2026-10-25T15:30:52Z",
             "open_issues": 498,
             "owner": "diasurgical",
             "repo": "DevilutionX",
-            "stars": 9937,
+            "stars": 9947,
             "topics": [
               "debian",
               "devilution",
@@ -4630,7 +4630,7 @@
             "open_issues": 42,
             "owner": "diasurgical",
             "repo": "devilution",
-            "stars": 9014,
+            "stars": 9015,
             "topics": [
               "devilution",
               "diablo",
@@ -4656,7 +4656,7 @@
             "open_issues": 0,
             "owner": "OpenMW",
             "repo": "openmw",
-            "stars": 6678,
+            "stars": 6682,
             "topics": [
               "c-plus-plus",
               "foss",
@@ -4685,7 +4685,7 @@
             "open_issues": 89,
             "owner": "snesrev",
             "repo": "zelda3",
-            "stars": 4906,
+            "stars": 4918,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -4744,11 +4744,11 @@
             "id": 165291205,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:18:44Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-26T00:50:08Z",
+            "open_issues": 150,
             "owner": "Try",
             "repo": "OpenGothic",
-            "stars": 1637,
+            "stars": 1639,
             "topics": [
               "gothic",
               "gothic2",
@@ -4797,7 +4797,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-24T16:44:12Z",
-            "open_issues": 189,
+            "open_issues": 191,
             "owner": "gemrb",
             "repo": "gemrb",
             "stars": 1264,
@@ -4896,7 +4896,7 @@
             "open_issues": 70,
             "owner": "arx",
             "repo": "ArxLibertatis",
-            "stars": 1104,
+            "stars": 1105,
             "topics": [
               "arx-fatalis",
               "c-plus-plus",
@@ -4928,7 +4928,7 @@
             "open_issues": 66,
             "owner": "Interrupt",
             "repo": "systemshock",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "c",
               "cross-platform",
@@ -4983,7 +4983,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-22T22:27:07Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "OpenEnroth",
             "repo": "OpenEnroth",
             "stars": 875,
@@ -5007,7 +5007,7 @@
             "open_issues": 153,
             "owner": "TurningWheel",
             "repo": "Barony",
-            "stars": 714,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -5024,11 +5024,11 @@
             "id": 53741886,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T06:59:52Z",
+            "last_commit": "2026-10-26T09:27:52Z",
             "open_issues": 91,
             "owner": "exult",
             "repo": "exult",
-            "stars": 696,
+            "stars": 697,
             "topics": [
               "black-gate",
               "c-plus-plus-17",
@@ -5095,7 +5095,7 @@
             "open_issues": 39,
             "owner": "Pyrdacor",
             "repo": "Ambermoon.net",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "amiga",
               "fantasy",
@@ -5127,7 +5127,7 @@
             "open_issues": 52,
             "owner": "REGoth-project",
             "repo": "REGoth-bs",
-            "stars": 500,
+            "stars": 501,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -5325,7 +5325,7 @@
             "open_issues": 14,
             "owner": "Sinan-Karakaya",
             "repo": "DQ8-Recompiled",
-            "stars": 83,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-10-10T11:15:46.951Z"
@@ -5346,7 +5346,7 @@
             "open_issues": 1,
             "owner": "abedegno",
             "repo": "underworld-exhumed",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "decompilation",
               "dos",
@@ -5427,7 +5427,7 @@
             "id": 1349159134,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-25T09:28:29Z",
+            "last_commit": "2026-10-25T20:57:51Z",
             "open_issues": 0,
             "owner": "Kweepa",
             "repo": "OpenUnderground",
@@ -5435,6 +5435,30 @@
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ultima 5",
+          "description": "Modern engine for Ultima 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Modernized engine for Ultima V",
+            "homepage": "https://synthwave-pixel.github.io/ultima5/",
+            "id": 1409630571,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-25T07:13:09Z",
+            "open_issues": 4,
+            "owner": "synthwave-pixel",
+            "repo": "ultima5",
+            "stars": 28,
+            "topics": [
+              "retrogaming",
+              "ultima"
+            ]
+          },
+          "first_seen": "2026-10-10T11:15:46.951Z"
         },
         {
           "node_type": "item",
@@ -5456,30 +5480,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ultima 5",
-          "description": "Modern engine for Ultima 5.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Modernized engine for Ultima V",
-            "homepage": "https://synthwave-pixel.github.io/ultima5/",
-            "id": 1409630571,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-25T07:13:09Z",
-            "open_issues": 4,
-            "owner": "synthwave-pixel",
-            "repo": "ultima5",
-            "stars": 26,
-            "topics": [
-              "retrogaming",
-              "ultima"
-            ]
-          },
-          "first_seen": "2026-10-10T11:15:46.951Z"
         },
         {
           "node_type": "item",
@@ -5538,7 +5538,7 @@
             "id": 1401542800,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-24T10:00:52Z",
+            "last_commit": "2026-10-26T11:18:06Z",
             "open_issues": 1,
             "owner": "PQMarine",
             "repo": "UnderworldRevisited",
@@ -5608,6 +5608,32 @@
         },
         {
           "node_type": "item",
+          "title": "Bak-Again",
+          "description": "Recomp + enhancement of Betrayal At Krondor by Dynamix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art from your own copy of the game, and plays on Windows, Linux and Android.",
+            "homepage": "https://bakagain.org",
+            "id": 1390267956,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-26T10:08:56Z",
+            "open_issues": 0,
+            "owner": "stellargames",
+            "repo": "bakagain",
+            "stars": 10,
+            "topics": [
+              "game",
+              "krondor",
+              "modding",
+              "open-source"
+            ]
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
+        },
+        {
+          "node_type": "item",
           "title": "Goldbox Companion",
           "description": "Companion tools for Eye of the Beholder 1-3, Goldbox games, Ultima V combined and ported to work on DOSBox Staging via its html browser feature.",
           "children": [],
@@ -5624,32 +5650,6 @@
             "repo": "goldbox-staging",
             "stars": 5,
             "topics": []
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bak-Again",
-          "description": "Recomp + enhancement of Betrayal At Krondor by Dynamix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art from your own copy of the game, and plays on Windows, Linux and Android.",
-            "homepage": "https://bakagain.org",
-            "id": 1390267956,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-10-24T20:09:53Z",
-            "open_issues": 0,
-            "owner": "stellargames",
-            "repo": "bakagain",
-            "stars": 3,
-            "topics": [
-              "game",
-              "krondor",
-              "modding",
-              "open-source"
-            ]
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
         },
@@ -5706,7 +5706,7 @@
             "language": "ActionScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T11:24:34Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "TerryCavanagh",
             "repo": "VVVVVV",
             "stars": 8042,
@@ -5730,7 +5730,7 @@
             "open_issues": 241,
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 5264,
+            "stars": 5272,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -5751,7 +5751,7 @@
             "open_issues": 196,
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3612,
+            "stars": 3616,
             "topics": [
               "jak",
               "jak-and-daxter",
@@ -5779,7 +5779,7 @@
             "open_issues": 59,
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 2087,
+            "stars": 2090,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -5820,11 +5820,11 @@
             "id": 690636028,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-25T06:11:31Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-25T10:17:44Z",
+            "open_issues": 16,
             "owner": "HarbourMasters",
             "repo": "Ghostship",
-            "stars": 853,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -5845,7 +5845,7 @@
             "open_issues": 0,
             "owner": "deathkiller",
             "repo": "jazz2",
-            "stars": 583,
+            "stars": 585,
             "topics": [
               "2d",
               "2d-game",
@@ -5903,7 +5903,7 @@
             "open_issues": 207,
             "owner": "AliveTeam",
             "repo": "alive_reversing",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "abe-exoddus",
               "abe-oddysee",
@@ -5927,11 +5927,11 @@
             "id": 1390003125,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T06:05:39Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-26T11:18:43Z",
+            "open_issues": 18,
             "owner": "chasem-dev",
             "repo": "sms-launcher",
-            "stars": 378,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -5949,7 +5949,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-07-12T09:03:41Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "sulix",
             "repo": "omnispeak",
             "stars": 318,
@@ -5994,7 +5994,7 @@
             "open_issues": 11,
             "owner": "DahSidiAbdallah",
             "repo": "ConkerBFDReloaded",
-            "stars": 123,
+            "stars": 132,
             "topics": [
               "conker",
               "n64",
@@ -6021,7 +6021,7 @@
             "open_issues": 7,
             "owner": "b3dgs",
             "repo": "lionheart-remake",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "amiga",
               "android",
@@ -6152,7 +6152,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-09-27T13:52:26Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "phoboslab",
             "repo": "wipeout-rewrite",
             "stars": 2992,
@@ -6176,7 +6176,7 @@
             "open_issues": 126,
             "owner": "HarbourMasters",
             "repo": "SpaghettiKart",
-            "stars": 2447,
+            "stars": 2452,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -6197,7 +6197,7 @@
             "open_issues": 93,
             "owner": "dethrace-labs",
             "repo": "dethrace",
-            "stars": 1232,
+            "stars": 1234,
             "topics": [
               "assembly",
               "c",
@@ -6242,11 +6242,11 @@
             "id": 18327621,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T06:55:46Z",
-            "open_issues": 170,
+            "last_commit": "2026-10-26T03:17:42Z",
+            "open_issues": 171,
             "owner": "KranX",
             "repo": "Vangers",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "game",
               "sdl2",
@@ -6254,6 +6254,46 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SpeedBreaker",
+          "description": "Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve.",
+            "homepage": "https://projectugarte.com/speedbreaker/",
+            "id": 1406150361,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-26T03:27:53Z",
+            "open_issues": 22,
+            "owner": "SpeedBreakerProject",
+            "repo": "speedbreaker",
+            "stars": 494,
+            "topics": [
+              "apple-silicon",
+              "game-port",
+              "linux",
+              "macos",
+              "moltenvk",
+              "native-port",
+              "powerpc",
+              "racing-game",
+              "recompilation",
+              "sdl3",
+              "static-recompilation",
+              "steam-deck",
+              "steam-frame",
+              "steam-machine",
+              "steamos",
+              "vulkan",
+              "xbox-360",
+              "xenonrecomp"
+            ]
+          },
+          "first_seen": "2026-10-10T11:15:46.951Z"
         },
         {
           "node_type": "item",
@@ -6280,46 +6320,6 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SpeedBreaker",
-          "description": "Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve.",
-            "homepage": "https://projectugarte.com/speedbreaker/",
-            "id": 1406150361,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-24T21:17:13Z",
-            "open_issues": 16,
-            "owner": "SpeedBreakerProject",
-            "repo": "speedbreaker",
-            "stars": 474,
-            "topics": [
-              "apple-silicon",
-              "game-port",
-              "linux",
-              "macos",
-              "moltenvk",
-              "native-port",
-              "powerpc",
-              "racing-game",
-              "recompilation",
-              "sdl3",
-              "static-recompilation",
-              "steam-deck",
-              "steam-frame",
-              "steam-machine",
-              "steamos",
-              "vulkan",
-              "xbox-360",
-              "xenonrecomp"
-            ]
-          },
-          "first_seen": "2026-10-10T11:15:46.951Z"
         },
         {
           "node_type": "item",
@@ -6358,10 +6358,37 @@
             "open_issues": 1,
             "owner": "reburndev",
             "repo": "reburn3",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Roller",
+          "description": "Recomp of the game Whiplash/Fatal Racing. Adds enhancements. Playable on PC or online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reverse engineering and partially re-writing the 1995 game Whiplash/Fatal Racing",
+            "homepage": null,
+            "id": 883409588,
+            "language": "C",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-24T07:03:54Z",
+            "open_issues": 20,
+            "owner": "FatalDecomp",
+            "repo": "ROLLER",
+            "stars": 102,
+            "topics": [
+              "gremlin-interactive",
+              "msdos-game",
+              "restoration",
+              "reverse-engineering",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
         },
         {
           "node_type": "item",
@@ -6389,33 +6416,6 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Roller",
-          "description": "Recomp of the game Whiplash/Fatal Racing. Adds enhancements. Playable on PC or online.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reverse engineering and partially re-writing the 1995 game Whiplash/Fatal Racing",
-            "homepage": null,
-            "id": 883409588,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-24T07:03:54Z",
-            "open_issues": 20,
-            "owner": "FatalDecomp",
-            "repo": "ROLLER",
-            "stars": 101,
-            "topics": [
-              "gremlin-interactive",
-              "msdos-game",
-              "restoration",
-              "reverse-engineering",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
         },
         {
           "node_type": "item",
@@ -6461,7 +6461,7 @@
             "open_issues": 5,
             "owner": "urxp",
             "repo": "dRally",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "1996",
               "code",
@@ -6591,6 +6591,27 @@
         },
         {
           "node_type": "item",
+          "title": "re-stunts",
+          "description": "Recomp of the game Stunts. Original and enhanced versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vanilla, Chocolate and SDL port for Stunts 1.1 (Brøderbund)",
+            "homepage": "https://commonloon102.github.io/restunts-bb11/",
+            "id": 1375107981,
+            "language": "C",
+            "license": null,
+            "last_commit": "2026-10-26T10:43:59Z",
+            "open_issues": 1,
+            "owner": "CommonLoon102",
+            "repo": "restunts-bb11",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T11:59:04.738Z"
+        },
+        {
+          "node_type": "item",
           "title": "Test Drive Enhanced",
           "description": "Enhanced version of Test Drive.",
           "children": [],
@@ -6654,27 +6675,6 @@
         },
         {
           "node_type": "item",
-          "title": "re-stunts",
-          "description": "Recomp of the game Stunts. Original and enhanced versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Vanilla, Chocolate and SDL port for Stunts 1.1 (Brøderbund)",
-            "homepage": "https://commonloon102.github.io/restunts-bb11/",
-            "id": 1375107981,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-10-25T08:11:34Z",
-            "open_issues": 1,
-            "owner": "CommonLoon102",
-            "repo": "restunts-bb11",
-            "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-10-09T11:59:04.738Z"
-        },
-        {
-          "node_type": "item",
           "title": "hi-octane202x",
           "description": "Hi-Octane with level editor using Irrlicht engine.",
           "children": [],
@@ -6685,7 +6685,7 @@
             "id": 803461849,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T17:57:53Z",
+            "last_commit": "2026-10-25T12:55:08Z",
             "open_issues": 8,
             "owner": "woalexan",
             "repo": "hi-octane202x",
@@ -6970,11 +6970,11 @@
             "id": 32231207,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T21:19:03Z",
+            "last_commit": "2026-10-25T10:10:46Z",
             "open_issues": 911,
             "owner": "endless-sky",
             "repo": "endless-sky",
-            "stars": 7658,
+            "stars": 7663,
             "topics": [
               "2d-game",
               "adventure-game",
@@ -7040,7 +7040,7 @@
             "open_issues": 77,
             "owner": "Librelancer",
             "repo": "Librelancer",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "c-sharp",
               "clone",
@@ -7067,7 +7067,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T09:51:56Z",
-            "open_issues": 483,
+            "open_issues": 485,
             "owner": "scp-fs2open",
             "repo": "fs2open.github.com",
             "stars": 496,
@@ -7093,7 +7093,7 @@
             "open_issues": 8,
             "owner": "elyosh",
             "repo": "OpenTIE",
-            "stars": 341,
+            "stars": 343,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7144,7 +7144,7 @@
             "open_issues": 27,
             "owner": "elyosh",
             "repo": "OpenXWA",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7186,7 +7186,7 @@
             "open_issues": 5,
             "owner": "elyosh",
             "repo": "OpenXW",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7222,6 +7222,31 @@
         },
         {
           "node_type": "item",
+          "title": "wc1-re",
+          "description": "Open-source recomp of Wing Commander I.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wing Commander 1 source reconstruction and SDL2 port",
+            "homepage": null,
+            "id": 1328043392,
+            "language": "C",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-26T11:09:48Z",
+            "open_issues": 8,
+            "owner": "neuromancer",
+            "repo": "wc1-re",
+            "stars": 60,
+            "topics": [
+              "ghidra",
+              "retro-gaming",
+              "source-reconstruction"
+            ]
+          },
+          "first_seen": "2026-10-08T12:07:38.082Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenXvT",
           "description": "Open-source recomp of X-Wing vs Tie Fighter.",
           "children": [],
@@ -7236,33 +7261,8 @@
             "open_issues": 4,
             "owner": "elyosh",
             "repo": "OpenXvT",
-            "stars": 58,
+            "stars": 59,
             "topics": []
-          },
-          "first_seen": "2026-10-08T12:07:38.082Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wc1-re",
-          "description": "Open-source recomp of Wing Commander I.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Wing Commander 1 source reconstruction and SDL2 port",
-            "homepage": null,
-            "id": 1328043392,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-25T09:30:46Z",
-            "open_issues": 8,
-            "owner": "neuromancer",
-            "repo": "wc1-re",
-            "stars": 58,
-            "topics": [
-              "ghidra",
-              "retro-gaming",
-              "source-reconstruction"
-            ]
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
         },
@@ -7299,11 +7299,11 @@
             "id": 1378937518,
             "language": "Zig",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-25T09:33:09Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-25T23:34:15Z",
+            "open_issues": 97,
             "owner": "OpenReliant",
             "repo": "openreliant",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-10-10T11:15:46.951Z"
@@ -7324,7 +7324,7 @@
             "open_issues": 15,
             "owner": "neuromancer",
             "repo": "wc2-re",
-            "stars": 29,
+            "stars": 31,
             "topics": [
               "dos-gaming",
               "reverse-engineering",
@@ -7350,7 +7350,7 @@
             "open_issues": 1,
             "owner": "neuviemeporte",
             "repo": "f15se2-ex",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7371,7 +7371,7 @@
             "open_issues": 4,
             "owner": "kylofon",
             "repo": "acesofthepacific-enhanced",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7413,7 +7413,7 @@
             "open_issues": 0,
             "owner": "kylofon",
             "repo": "aces-of-the-pacific-sdl3",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-10-08T12:07:38.082Z"
@@ -7455,7 +7455,7 @@
             "open_issues": 12,
             "owner": "DMJC",
             "repo": "dxx-vr",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -7591,10 +7591,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-22T08:04:14Z",
-            "open_issues": 54,
+            "open_issues": 57,
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 29460,
+            "stars": 29469,
             "topics": [
               "android",
               "desktop",
@@ -7622,11 +7622,11 @@
             "id": 959908,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T14:13:02Z",
-            "open_issues": 1616,
+            "last_commit": "2026-10-25T18:34:34Z",
+            "open_issues": 1609,
             "owner": "OpenRA",
             "repo": "OpenRA",
-            "stars": 17645,
+            "stars": 17658,
             "topics": [
               "command-and-conquer",
               "cross-platform",
@@ -7659,11 +7659,11 @@
             "id": 18348651,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T21:10:59Z",
-            "open_issues": 1451,
+            "last_commit": "2026-10-26T00:01:24Z",
+            "open_issues": 1466,
             "owner": "OpenRCT2",
             "repo": "OpenRCT2",
-            "stars": 16498,
+            "stars": 16501,
             "topics": [
               "c-plus-plus",
               "cmake",
@@ -7703,7 +7703,7 @@
             "open_issues": 205,
             "owner": "SFTtech",
             "repo": "openage",
-            "stars": 14548,
+            "stars": 14551,
             "topics": [
               "age-of-empires",
               "c-plus-plus",
@@ -7740,11 +7740,11 @@
             "id": 111605778,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-25T08:14:39Z",
-            "open_issues": 141,
+            "last_commit": "2026-10-26T11:08:43Z",
+            "open_issues": 127,
             "owner": "yairm210",
             "repo": "Unciv",
-            "stars": 11486,
+            "stars": 11488,
             "topics": [
               "4x",
               "4x-strategy-game",
@@ -7772,11 +7772,11 @@
             "id": 128430621,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T08:45:25Z",
-            "open_issues": 400,
+            "last_commit": "2026-10-25T10:48:31Z",
+            "open_issues": 402,
             "owner": "OpenTTD",
             "repo": "OpenTTD",
-            "stars": 8421,
+            "stars": 8427,
             "topics": [
               "game",
               "isometric",
@@ -7799,11 +7799,11 @@
             "id": 18490421,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T06:36:45Z",
-            "open_issues": 588,
+            "last_commit": "2026-10-26T10:52:31Z",
+            "open_issues": 593,
             "owner": "vcmi",
             "repo": "vcmi",
-            "stars": 5983,
+            "stars": 5991,
             "topics": [
               "android",
               "c-plus-plus",
@@ -7831,7 +7831,7 @@
             "id": 120053075,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:43:55Z",
+            "last_commit": "2026-10-25T13:20:32Z",
             "open_issues": 3,
             "owner": "OpenSC2K",
             "repo": "OpenSC2K",
@@ -7863,11 +7863,11 @@
             "id": 12363387,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T02:30:33Z",
-            "open_issues": 224,
+            "last_commit": "2026-10-25T23:23:01Z",
+            "open_issues": 226,
             "owner": "CorsixTH",
             "repo": "CorsixTH",
-            "stars": 4617,
+            "stars": 4623,
             "topics": [
               "game",
               "opensource",
@@ -7890,11 +7890,11 @@
             "id": 172370867,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T08:52:57Z",
-            "open_issues": 829,
+            "last_commit": "2026-10-26T05:31:11Z",
+            "open_issues": 833,
             "owner": "beyond-all-reason",
             "repo": "Beyond-All-Reason",
-            "stars": 4326,
+            "stars": 4327,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -7915,7 +7915,7 @@
             "open_issues": 605,
             "owner": "Warzone2100",
             "repo": "warzone2100",
-            "stars": 4011,
+            "stars": 4013,
             "topics": [
               "c-plus-plus",
               "campaign",
@@ -7952,10 +7952,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T22:46:30Z",
-            "open_issues": 431,
+            "open_issues": 435,
             "owner": "ihhub",
             "repo": "fheroes2",
-            "stars": 3516,
+            "stars": 3679,
             "topics": [
               "cpp",
               "game",
@@ -7988,7 +7988,7 @@
             "open_issues": 12,
             "owner": "bvschaik",
             "repo": "julius",
-            "stars": 3417,
+            "stars": 3420,
             "topics": [
               "citybuilder",
               "clone",
@@ -8009,11 +8009,11 @@
             "id": 902137162,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T20:08:23Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-26T11:02:27Z",
+            "open_issues": 235,
             "owner": "openfrontio",
             "repo": "OpenFrontIO",
-            "stars": 2825,
+            "stars": 2829,
             "topics": [
               "browser-game",
               "game",
@@ -8071,7 +8071,7 @@
             "open_issues": 84,
             "owner": "OpenXcom",
             "repo": "OpenXcom",
-            "stars": 2241,
+            "stars": 2243,
             "topics": [
               "c-plus-plus",
               "game",
@@ -8102,7 +8102,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-14T22:04:07Z",
-            "open_issues": 486,
+            "open_issues": 488,
             "owner": "OpenLoco",
             "repo": "OpenLoco",
             "stars": 1955,
@@ -8137,8 +8137,8 @@
             "id": 2089437,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T07:29:00Z",
-            "open_issues": 402,
+            "last_commit": "2026-10-25T16:03:25Z",
+            "open_issues": 403,
             "owner": "FreezingMoon",
             "repo": "AncientBeast",
             "stars": 1884,
@@ -8183,7 +8183,7 @@
             "open_issues": 41,
             "owner": "OpenDUNE",
             "repo": "OpenDUNE",
-            "stars": 1696,
+            "stars": 1697,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -8204,7 +8204,7 @@
             "open_issues": 349,
             "owner": "OpenSAGE",
             "repo": "OpenSAGE",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "bfme",
               "commandandconquer",
@@ -8232,7 +8232,7 @@
             "id": 88430427,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T08:46:50Z",
+            "last_commit": "2026-10-26T05:57:08Z",
             "open_issues": 7,
             "owner": "freeciv",
             "repo": "freeciv",
@@ -8283,8 +8283,8 @@
             "id": 39766308,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T14:26:01Z",
-            "open_issues": 245,
+            "last_commit": "2026-10-26T03:18:11Z",
+            "open_issues": 246,
             "owner": "triplea-game",
             "repo": "triplea",
             "stars": 1588,
@@ -8313,11 +8313,11 @@
             "id": 940723846,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T09:32:20Z",
-            "open_issues": 811,
+            "last_commit": "2026-10-25T15:32:33Z",
+            "open_issues": 817,
             "owner": "TheSuperHackers",
             "repo": "GeneralsGameCode",
-            "stars": 1451,
+            "stars": 1453,
             "topics": [
               "command-and-conquer",
               "generals",
@@ -8414,10 +8414,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-24T10:40:01Z",
-            "open_issues": 433,
+            "open_issues": 436,
             "owner": "dkfans",
             "repo": "keeperfx",
-            "stars": 1028,
+            "stars": 1029,
             "topics": [
               "dungeon",
               "dungeon-keeper",
@@ -8446,7 +8446,7 @@
             "open_issues": 719,
             "owner": "miki151",
             "repo": "keeperrl",
-            "stars": 1008,
+            "stars": 1009,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -8463,11 +8463,11 @@
             "id": 11837082,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T07:47:09Z",
-            "open_issues": 1411,
+            "last_commit": "2026-10-26T06:49:56Z",
+            "open_issues": 1393,
             "owner": "ZeroK-RTS",
             "repo": "Zero-K",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "cross-platform",
               "game",
@@ -8498,7 +8498,7 @@
             "id": 342119984,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T04:19:25Z",
+            "last_commit": "2026-10-25T19:52:22Z",
             "open_issues": 122,
             "owner": "C7-Game",
             "repo": "OpenCiv3",
@@ -8661,7 +8661,7 @@
             "open_issues": 281,
             "owner": "ja2-stracciatella",
             "repo": "ja2-stracciatella",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "c-plus-plus",
               "game",
@@ -8688,8 +8688,8 @@
             "id": 22580980,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T18:15:46Z",
-            "open_issues": 211,
+            "last_commit": "2026-10-25T19:27:18Z",
+            "open_issues": 235,
             "owner": "tonihele",
             "repo": "OpenKeeper",
             "stars": 510,
@@ -8843,8 +8843,8 @@
             "id": 3185366,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T09:38:07Z",
-            "open_issues": 329,
+            "last_commit": "2026-10-26T10:38:50Z",
+            "open_issues": 332,
             "owner": "stefanhendriks",
             "repo": "Dune-II---The-Maker",
             "stars": 372,
@@ -8893,7 +8893,7 @@
             "open_issues": 30,
             "owner": "sourcehold",
             "repo": "Sourcehold",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "cpp",
               "engine",
@@ -8918,7 +8918,7 @@
             "id": 39679479,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T22:57:38Z",
+            "last_commit": "2026-10-26T01:00:18Z",
             "open_issues": 95,
             "owner": "swfans",
             "repo": "syndwarsfx",
@@ -8938,6 +8938,40 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Zero Hour Reforged",
+          "description": "Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero Hour rebuilt from EA's source: x64, Direct3D 11, VS2022/CMake, ~60 original bugs fixed, an AI that builds a base. Bring your own game.",
+            "homepage": "https://zerohour.gg",
+            "id": 1165933897,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-25T20:18:59Z",
+            "open_issues": 4,
+            "owner": "olcayseygan",
+            "repo": "CnCGeneralsZH-Reforged",
+            "stars": 265,
+            "topics": [
+              "cmake",
+              "cnc",
+              "command-and-conquer",
+              "cpp",
+              "directx11",
+              "game-engine",
+              "game-preservation",
+              "generals",
+              "rts",
+              "sage-engine",
+              "x64",
+              "zero-hour"
+            ]
+          },
+          "first_seen": "2026-09-29T11:26:50.130Z"
         },
         {
           "node_type": "item",
@@ -8966,40 +9000,6 @@
             ]
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Zero Hour Reforged",
-          "description": "Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Zero Hour rebuilt from EA's source: x64, Direct3D 11, VS2022/CMake, ~60 original bugs fixed, an AI that builds a base. Bring your own game.",
-            "homepage": "https://zerohour.gg",
-            "id": 1165933897,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-25T07:57:09Z",
-            "open_issues": 14,
-            "owner": "olcayseygan",
-            "repo": "CnCGeneralsZH-Reforged",
-            "stars": 261,
-            "topics": [
-              "cmake",
-              "cnc",
-              "command-and-conquer",
-              "cpp",
-              "directx11",
-              "game-engine",
-              "game-preservation",
-              "generals",
-              "rts",
-              "sage-engine",
-              "x64",
-              "zero-hour"
-            ]
-          },
-          "first_seen": "2026-09-29T11:26:50.130Z"
         },
         {
           "node_type": "item",
@@ -9067,12 +9067,12 @@
             "homepage": "https://vera20k.org",
             "id": 1195365861,
             "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-25T09:12:50Z",
-            "open_issues": 245,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-26T11:10:36Z",
+            "open_issues": 254,
             "owner": "YuriPlanet",
             "repo": "vera20k",
-            "stars": 216,
+            "stars": 229,
             "topics": [
               "command-and-conquer",
               "openra",
@@ -9126,7 +9126,7 @@
             "open_issues": 25,
             "owner": "nicupavel",
             "repo": "openpanzer",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "browser-game",
               "cross-platform",
@@ -9153,8 +9153,8 @@
             "id": 483772228,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T09:17:44Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-26T11:07:16Z",
+            "open_issues": 10,
             "owner": "jurerotar",
             "repo": "Pillage-First-Ask-Questions-Later",
             "stars": 185,
@@ -9230,7 +9230,7 @@
             "language": "Java",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T19:46:40Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "tuomount",
             "repo": "Open-Realms-of-Stars",
             "stars": 179,
@@ -9267,10 +9267,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T20:24:54Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "Pyrdacor",
             "repo": "freeserf.net",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "classic",
               "clone",
@@ -9471,7 +9471,7 @@
             "id": 127461667,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T02:27:17Z",
+            "last_commit": "2026-10-26T06:37:13Z",
             "open_issues": 95,
             "owner": "OutpostUniverse",
             "repo": "OPHD",
@@ -9500,7 +9500,7 @@
             "id": 127461667,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T02:27:17Z",
+            "last_commit": "2026-10-26T06:37:13Z",
             "open_issues": 95,
             "owner": "OutpostUniverse",
             "repo": "OPHD",
@@ -9627,7 +9627,7 @@
             "open_issues": 6,
             "owner": "1oom-fork",
             "repo": "1oom",
-            "stars": 112,
+            "stars": 111,
             "topics": [
               "1oom",
               "allegro4",
@@ -9665,7 +9665,7 @@
             "id": 507239630,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T07:12:17Z",
+            "last_commit": "2026-10-26T05:32:24Z",
             "open_issues": 1,
             "owner": "simutrans",
             "repo": "simutrans",
@@ -9771,7 +9771,7 @@
             "id": 508889948,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T03:10:01Z",
+            "last_commit": "2026-10-26T01:46:20Z",
             "open_issues": 1,
             "owner": "BrokenRegistry",
             "repo": "Rotp-Fusion",
@@ -9792,11 +9792,11 @@
             "id": 1387131969,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T09:53:45Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T10:49:04Z",
+            "open_issues": 1,
             "owner": "open-annihilation",
             "repo": "open-annihilation",
-            "stars": 67,
+            "stars": 69,
             "topics": [
               "gaming",
               "multiplayer",
@@ -9822,7 +9822,7 @@
             "open_issues": 96,
             "owner": "adamkulik",
             "repo": "pocket-wormhole",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-10-09T11:59:04.738Z"
@@ -9839,7 +9839,7 @@
             "id": 994282770,
             "language": "Java",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T08:25:25Z",
+            "last_commit": "2026-10-26T00:40:14Z",
             "open_issues": 50,
             "owner": "Tribal-Trouble",
             "repo": "tribaltrouble",
@@ -9938,10 +9938,31 @@
             "open_issues": 0,
             "owner": "Themperror",
             "repo": "Dungeon-Keeper-Remake",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSGolf",
+          "description": "Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flower_playing_cards:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser.",
+            "homepage": "https://crspytopgn.github.io/opensgolf/",
+            "id": 1401693155,
+            "language": "Rust",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-26T10:36:40Z",
+            "open_issues": 4,
+            "owner": "crspytopgn",
+            "repo": "opensgolf",
+            "stars": 36,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T11:18:53.487Z"
         },
         {
           "node_type": "item",
@@ -9955,11 +9976,11 @@
             "id": 625234593,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T01:03:26Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-26T02:28:21Z",
+            "open_issues": 17,
             "owner": "davidadas",
             "repo": "rebellion2",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
@@ -10005,6 +10026,41 @@
         },
         {
           "node_type": "item",
+          "title": "OpenZ",
+          "description": "Open-source 3D remake of the 1996 RTS Z (The Bitmap Brothers), built in Unity on the gameplay rules of the Zod Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenZ: the faithful open-source 3D fan remake of Z (The Bitmap Brothers, 1996) for its 30th anniversary. Free, never sold, 100% original assets.",
+            "homepage": null,
+            "id": 1415413356,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-26T11:04:19Z",
+            "open_issues": 0,
+            "owner": "playopenz",
+            "repo": "OpenZ",
+            "stars": 28,
+            "topics": [
+              "fan-game",
+              "open-source",
+              "pc-game",
+              "real-time-strategy",
+              "remake",
+              "retro-gaming",
+              "rts",
+              "strategy-game",
+              "unity",
+              "unity3d",
+              "windows-game",
+              "z",
+              "zod-engine"
+            ]
+          },
+          "first_seen": "2026-10-22T10:20:28.494Z"
+        },
+        {
+          "node_type": "item",
           "title": "parabellum",
           "description": "An attempt to build a #Travian 3.x clone written in #Rust.",
           "children": [],
@@ -10045,49 +10101,14 @@
             "id": 28537490,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T12:20:30Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-25T11:52:38Z",
+            "open_issues": 223,
             "owner": "tomluchowski",
             "repo": "OpenDungeonsPlus",
             "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T17:31:02.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenZ",
-          "description": "Open-source 3D remake of the 1996 RTS Z (The Bitmap Brothers), built in Unity on the gameplay rules of the Zod Engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenZ: the faithful open-source 3D fan remake of Z (The Bitmap Brothers, 1996) for its 30th anniversary. Free, never sold, 100% original assets.",
-            "homepage": null,
-            "id": 1415413356,
-            "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-22T12:39:44Z",
-            "open_issues": 0,
-            "owner": "playopenz",
-            "repo": "OpenZ",
-            "stars": 27,
-            "topics": [
-              "fan-game",
-              "open-source",
-              "pc-game",
-              "real-time-strategy",
-              "remake",
-              "retro-gaming",
-              "rts",
-              "strategy-game",
-              "unity",
-              "unity3d",
-              "windows-game",
-              "z",
-              "zod-engine"
-            ]
-          },
-          "first_seen": "2026-10-22T10:20:28.494Z"
         },
         {
           "node_type": "item",
@@ -10172,14 +10193,14 @@
           "repo_info": {
             "archived": false,
             "description": "KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox. Install keeperfx-tux from the AUR, or grab the AppImage or Flatpak. Unofficial, community-maintained, re-synced with upstream.",
-            "homepage": "https://github.com/ForkedInTime/keeperfx-linux-alpha/releases/latest",
+            "homepage": "https://github.com/ForkedInTime/keeperfx-tux-edition/releases/latest",
             "id": 1283180991,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T07:22:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-25T21:55:13Z",
+            "open_issues": 0,
             "owner": "ForkedInTime",
-            "repo": "keeperfx-linux-alpha",
+            "repo": "keeperfx-tux-edition",
             "stars": 7,
             "topics": [
               "appimage",
@@ -10926,7 +10947,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:56:29.583Z",
+    "last_updated": "2026-10-26T11:18:53.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively maintained open-source game remakes.",
@@ -10934,11 +10955,11 @@
       "id": 246501907,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-24T05:50:06Z",
+      "last_commit": "2026-10-25T17:38:59Z",
       "open_issues": 0,
       "owner": "radek-sprta",
       "repo": "awesome-game-remakes",
-      "stars": 1555,
+      "stars": 1559,
       "topics": [
         "awesome",
         "awesome-list",
@@ -10948,7 +10969,7 @@
         "remake"
       ]
     },
-    "original_repository_sha": "603d52be21b1c40d3715a2d6576d6276390ba358",
+    "original_repository_sha": "a7bd1b87490eca6aadf504e9181356428fdefbac",
     "enhanced_repository": "enhansome/enhansome-game-remakes",
     "enhanced_repository_description": null,
     "title": "Awesome Game Remakes with stars"
